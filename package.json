@@ -1,0 +1,41 @@
+{
+  "name": "kodhus-vscode-snippets",
+  "version": "1.0.0",
+  "description": "Kodhus vscode snippets",
+  "main": "index.js",
+  "repository": "https://github.com/kodhusco/kodhus-vscode-snippets.git",
+  "author": "Kodhusco <kodhus@kodhus.com>",
+  "license": "MIT",
+  "publisher": "Kodhus",
+	"categories": [
+		"Snippets"
+	],
+  "contributes": {
+		"snippets": [
+      {
+				"language": "html",
+				"path": "./html-snippets.json"
+      }
+		]
+  },
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "icon": "logo.png",
+  "keywords": [
+    "codyhouse",
+    "scss",
+    "css",
+    "html",
+    "js",
+    "snippets",
+    "autocomplete",
+    "vscode",
+    "vscode-extension"
+  ],
+  "homepage": "https://github.com/kodhusco/kodhus-vscode-snippets/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/kodhusco/kodhus-vscode-snippets/issues",
+    "email": "kodhus@kodhus.com"
+  }
+}

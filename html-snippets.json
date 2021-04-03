@@ -9994,5 +9994,474 @@
             "margin-left-xxxxl@xlg"
         ],
         "description": "margin-left: var(--space-xxxxl);"
+    },
+    "font-medium": {
+        "prefix": "font-medium",
+        "body": [
+            "font-medium"
+        ],
+        "description": "font-weight: 500"
+    },
+    "font-semibold": {
+        "prefix": "font-semibold",
+        "body": [
+            "font-semibold"
+        ],
+        "description": "font-weight: 600"
+    },
+    "font-bold": {
+        "prefix": "font-bold",
+        "body": [
+            "font-bold"
+        ],
+        "description": "font-weight: 700"
+    },
+    "font-extrabold": {
+        "prefix": "font-extrabold",
+        "body": [
+            "font-extrabold"
+        ],
+        "description": "font-weight: 900"
+    },
+    "font-smooth": {
+        "prefix": "font-smooth",
+        "body": [
+            "font-smooth"
+        ],
+        "description": "webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;"
+    },
+    "color-bg": {
+        "prefix": "color-bg",
+        "body": [
+            "color-bg"
+        ],
+        "description": "color: var(--color-bg)"
+    },
+    "color-lowest": {
+        "prefix": "color-lowest",
+        "body": [
+            "color-lowest"
+        ],
+        "description": "color: var(--color-lowest)"
+    },
+    "color-lower": {
+        "prefix": "color-lower",
+        "body": [
+            "color-lower"
+        ],
+        "description": "color: var(--color-lower)"
+    },
+    "color-mid": {
+        "prefix": "color-mid",
+        "body": [
+            "color-mid"
+        ],
+        "description": "color: var(--color-mid)"
+    },
+    "color-higher": {
+        "prefix": "color-higher",
+        "body": [
+            "color-higher"
+        ],
+        "description": "color: var(--color-higher)"
+    },
+    "color-highest": {
+        "prefix": "color-highest",
+        "body": [
+            "color-highest"
+        ],
+        "description": "color: var(--color-highest)"
+    },
+    "color-primary-lightest": {
+        "prefix": "color-primary-lightest",
+        "body": [
+            "color-primary-lightest"
+        ],
+        "description": "color: var(--primary-color-lightest)"
+    },
+    "color-primary-lighter": {
+        "prefix": "color-primary-lighter",
+        "body": [
+            "color-primary-lighter"
+        ],
+        "description": "color: var(--primary-color-lighter)"
+    },
+    "color-primary": {
+        "prefix": "color-primary",
+        "body": [
+            "color-primary"
+        ],
+        "description": "color: var(--primary-color)"
+    },
+    "color-primary-darker": {
+        "prefix": "color-primary-darker",
+        "body": [
+            "color-primary-darker"
+        ],
+        "description": "color: var(--primary-color-darker)"
+    },
+    "color-primary-darkest": {
+        "prefix": "color-primary-darkest",
+        "body": [
+            "color-primary-darkest"
+        ],
+        "description": "color: var(--primary-color-darkest)"
+    },
+    "color-secondary-lightest": {
+        "prefix": "color-secondary-lightest",
+        "body": [
+            "color-secondary-lightest"
+        ],
+        "description": "color: var(--secondary-color-lightest)"
+    },
+    "color-secondary-lighter": {
+        "prefix": "color-secondary-lighter",
+        "body": [
+            "color-secondary-lighter"
+        ],
+        "description": "color: var(--secondary-color-lighter)"
+    },
+    "color-secondary": {
+        "prefix": "color-secondary",
+        "body": [
+            "color-secondary"
+        ],
+        "description": "color: var(--secondary-color)"
+    },
+    "color-secondary-darker": {
+        "prefix": "color-secondary-darker",
+        "body": [
+            "color-secondary-darker"
+        ],
+        "description": "color: var(--secondary-color-darker)"
+    },
+    "color-secondary-darkest": {
+        "prefix": "color-secondary-darkest",
+        "body": [
+            "color-secondary-darkest"
+        ],
+        "description": "color: var(--secondary-color-darkest)"
+    },
+    "color-success-lightest": {
+        "prefix": "color-success-lightest",
+        "body": [
+            "color-success-lightest"
+        ],
+        "description": "color: var(--success-color-lightest)"
+    },
+    "color-success-lighter": {
+        "prefix": "color-success-lighter",
+        "body": [
+            "color-success-lighter"
+        ],
+        "description": "color: var(--success-color-lighter)"
+    },
+    "color-success": {
+        "prefix": "color-success",
+        "body": [
+            "color-success"
+        ],
+        "description": "color: var(--success-color)"
+    },
+    "color-success-darker": {
+        "prefix": "color-success-darker",
+        "body": [
+            "color-success-darker"
+        ],
+        "description": "color: var(--success-color-darker)"
+    },
+    "color-success-darkest": {
+        "prefix": "color-success-darkest",
+        "body": [
+            "color-success-darkest"
+        ],
+        "description": "color: var(--success-color-darkest)"
+    },
+    "color-warning-lightest": {
+        "prefix": "color-warning-lightest",
+        "body": [
+            "color-warning-lightest"
+        ],
+        "description": "color: var(--warning-color-lightest)"
+    },
+    "color-warning-lighter": {
+        "prefix": "color-warning-lighter",
+        "body": [
+            "color-warning-lighter"
+        ],
+        "description": "color: var(--warning-color-lighter)"
+    },
+    "color-warning": {
+        "prefix": "color-warning",
+        "body": [
+            "color-warning"
+        ],
+        "description": "color: var(--warning-color)"
+    },
+    "color-warning-darker": {
+        "prefix": "color-warning-darker",
+        "body": [
+            "color-warning-darker"
+        ],
+        "description": "color: var(--warning-color-darker)"
+    },
+    "color-warning-darkest": {
+        "prefix": "color-warning-darkest",
+        "body": [
+            "color-warning-darkest"
+        ],
+        "description": "color: var(--warning-color-darkest)"
+    },
+    "color-error-lightest": {
+        "prefix": "color-error-lightest",
+        "body": [
+            "color-error-lightest"
+        ],
+        "description": "color: var(--error-color-lightest)"
+    },
+    "color-error-lighter": {
+        "prefix": "color-error-lighter",
+        "body": [
+            "color-error-lighter"
+        ],
+        "description": "color: var(--error-color-lighter)"
+    },
+    "color-error": {
+        "prefix": "color-error",
+        "body": [
+            "color-error"
+        ],
+        "description": "color: var(--error-color)"
+    },
+    "color-error-darker": {
+        "prefix": "color-error-darker",
+        "body": [
+            "color-error-darker"
+        ],
+        "description": "color: var(--error-color-darker)"
+    },
+    "color-error-darkest": {
+        "prefix": "color-error-darkest",
+        "body": [
+            "color-error-darkest"
+        ],
+        "description": "color: var(--error-color-darkest)"
+    },
+    "bg": {
+        "prefix": "bg",
+        "body": [
+            "bg"
+        ],
+        "description": "background-color: var(--color-bg)"
+    },
+    "bg-lowest": {
+        "prefix": "bg-lowest",
+        "body": [
+            "bg-lowest"
+        ],
+        "description": "background-color: var(--color-lowest)"
+    },
+    "bg-lower": {
+        "prefix": "bg-lower",
+        "body": [
+            "bg-lower"
+        ],
+        "description": "background-color: var(--color-lower)"
+    },
+    "bg-mid": {
+        "prefix": "bg-mid",
+        "body": [
+            "bg-mid"
+        ],
+        "description": "background-color: var(--color-mid)"
+    },
+    "bg-higher": {
+        "prefix": "bg-higher",
+        "body": [
+            "bg-higher"
+        ],
+        "description": "background-color: var(--color-higher)"
+    },
+    "bg-highest": {
+        "prefix": "bg-highest",
+        "body": [
+            "bg-highest"
+        ],
+        "description": "background-color: var(--color-highest)"
+    },
+    "bg-primary-lightest": {
+        "prefix": "bg-primary-lightest",
+        "body": [
+            "bg-primary-lightest"
+        ],
+        "description": "background-color: var(--primary-color-lightest)"
+    },
+    "bg-primary-lighter": {
+        "prefix": "bg-primary-lighter",
+        "body": [
+            "bg-primary-lighter"
+        ],
+        "description": "background-color: var(--primary-color-lighter)"
+    },
+    "bg-primary": {
+        "prefix": "bg-primary",
+        "body": [
+            "bg-primary"
+        ],
+        "description": "background-color: var(--primary-color)"
+    },
+    "bg-primary-darker": {
+        "prefix": "bg-primary-darker",
+        "body": [
+            "bg-primary-darker"
+        ],
+        "description": "background-color: var(--primary-color-darker)"
+    },
+    "bg-primary-darkest": {
+        "prefix": "bg-primary-darkest",
+        "body": [
+            "bg-primary-darkest"
+        ],
+        "description": "background-color: var(--primary-color-darkest)"
+    },
+    "bg-secondary-lightest": {
+        "prefix": "bg-secondary-lightest",
+        "body": [
+            "bg-secondary-lightest"
+        ],
+        "description": "background-color: var(--secondary-color-lightest)"
+    },
+    "bg-secondary-lighter": {
+        "prefix": "bg-secondary-lighter",
+        "body": [
+            "bg-secondary-lighter"
+        ],
+        "description": "background-color: var(--secondary-color-lighter)"
+    },
+    "bg-secondary": {
+        "prefix": "bg-secondary",
+        "body": [
+            "bg-secondary"
+        ],
+        "description": "background-color: var(--secondary-color)"
+    },
+    "bg-secondary-darker": {
+        "prefix": "bg-secondary-darker",
+        "body": [
+            "bg-secondary-darker"
+        ],
+        "description": "background-color: var(--secondary-color-darker)"
+    },
+    "bg-secondary-darkest": {
+        "prefix": "bg-secondary-darkest",
+        "body": [
+            "bg-secondary-darkest"
+        ],
+        "description": "background-color: var(--secondary-color-darkest)"
+    },
+    "bg-success-lightest": {
+        "prefix": "bg-success-lightest",
+        "body": [
+            "bg-success-lightest"
+        ],
+        "description": "background-color: var(--success-color-lightest)"
+    },
+    "bg-success-lighter": {
+        "prefix": "bg-success-lighter",
+        "body": [
+            "bg-success-lighter"
+        ],
+        "description": "background-color: var(--success-color-lighter)"
+    },
+    "bg-success": {
+        "prefix": "bg-success",
+        "body": [
+            "bg-success"
+        ],
+        "description": "background-color: var(--success-color)"
+    },
+    "bg-success-darker": {
+        "prefix": "bg-success-darker",
+        "body": [
+            "bg-success-darker"
+        ],
+        "description": "background-color: var(--success-color-darker)"
+    },
+    "bg-success-darkest": {
+        "prefix": "bg-success-darkest",
+        "body": [
+            "bg-success-darkest"
+        ],
+        "description": "background-color: var(--success-color-darkest)"
+    },
+    "bg-warning-lightest": {
+        "prefix": "bg-warning-lightest",
+        "body": [
+            "bg-warning-lightest"
+        ],
+        "description": "background-color: var(--warning-color-lightest)"
+    },
+    "bg-warning-lighter": {
+        "prefix": "bg-warning-lighter",
+        "body": [
+            "bg-warning-lighter"
+        ],
+        "description": "background-color: var(--warning-color-lighter)"
+    },
+    "bg-warning": {
+        "prefix": "bg-warning",
+        "body": [
+            "bg-warning"
+        ],
+        "description": "background-color: var(--warning-color)"
+    },
+    "bg-warning-darker": {
+        "prefix": "bg-warning-darker",
+        "body": [
+            "bg-warning-darker"
+        ],
+        "description": "background-color: var(--warning-color-darker)"
+    },
+    "bg-warning-darkest": {
+        "prefix": "bg-warning-darkest",
+        "body": [
+            "bg-warning-darkest"
+        ],
+        "description": "background-color: var(--warning-color-darkest)"
+    },
+    "bg-error-lightest": {
+        "prefix": "bg-error-lightest",
+        "body": [
+            "bg-error-lightest"
+        ],
+        "description": "background-color: var(--error-color-lightest)"
+    },
+    "bg-error-lighter": {
+        "prefix": "bg-error-lighter",
+        "body": [
+            "bg-error-lighter"
+        ],
+        "description": "background-color: var(--error-color-lighter)"
+    },
+    "bg-error": {
+        "prefix": "bg-error",
+        "body": [
+            "bg-error"
+        ],
+        "description": "background-color: var(--error-color)"
+    },
+    "bg-error-darker": {
+        "prefix": "bg-error-darker",
+        "body": [
+            "bg-error-darker"
+        ],
+        "description": "background-color: var(--error-color-darker)"
+    },
+    "bg-error-darkest": {
+        "prefix": "bg-error-darkest",
+        "body": [
+            "bg-error-darkest"
+        ],
+        "description": "background-color: var(--error-color-darkest)"
     }
 }

@@ -32,28 +32,28 @@
         "body": [
             "text-xlg"
         ],
-        "description": "font-size: var(--text-xl)"
+        "description": "font-size: var(--text-xlg)"
     },
     "text-xxlg": {
         "prefix": "text-xxlg",
         "body": [
             "text-xxlg"
         ],
-        "description": "font-size: var(--text-xxl)"
+        "description": "font-size: var(--text-xxlg)"
     },
     "text-xxxlg": {
         "prefix": "text-xxxlg",
         "body": [
             "text-xxxlg"
         ],
-        "description": "font-size: var(--text-xxxl)"
+        "description": "font-size: var(--text-xxxlg)"
     },
     "text-xxxxlg": {
         "prefix": "text-xxxxlg",
         "body": [
             "text-xxxxlg"
         ],
-        "description": "font-size: var(--text-xxxxl)"
+        "description": "font-size: var(--text-xxxxlg)"
     },
     "line-height-default": {
         "prefix": "line-height-default",
@@ -263,7 +263,7 @@
         "body": [
             "shadow-xs"
         ],
-        "description": "box-shadow: var(--shadow-xs)"
+        "description": "box-shadow: var(--shadow-xsm)"
     },
     "shadow-sm": {
         "prefix": "shadow-sm",
@@ -1215,28 +1215,28 @@
         "body": [
             "padding-xxxxsm"
         ],
-        "description": "padding: var(--space-xxxxs)"
+        "description": "padding: var(--space-xxxxsm)"
     },
     "padding-xxxsm": {
         "prefix": "padding-xxxsm",
         "body": [
             "padding-xxxsm"
         ],
-        "description": "padding: var(--space-xxxs)"
+        "description": "padding: var(--space-xxxsm)"
     },
     "padding-xxsm": {
         "prefix": "padding-xxsm",
         "body": [
             "padding-xxsm"
         ],
-        "description": "padding: var(--space-xxs)"
+        "description": "padding: var(--space-xxsm)"
     },
     "padding-xsm": {
         "prefix": "padding-xsm",
         "body": [
             "padding-xsm"
         ],
-        "description": "padding: var(--space-xs)"
+        "description": "padding: var(--space-xsm)"
     },
     "padding-sm": {
         "prefix": "padding-sm",
@@ -1264,28 +1264,28 @@
         "body": [
             "padding-xlg"
         ],
-        "description": "padding: var(--space-xl)"
+        "description": "padding: var(--space-xlg)"
     },
     "padding-xxlg": {
         "prefix": "padding-xxlg",
         "body": [
             "padding-xxlg"
         ],
-        "description": "padding: var(--space-xxl)"
+        "description": "padding: var(--space-xxlg)"
     },
     "padding-xxxlg": {
         "prefix": "padding-xxxlg",
         "body": [
             "padding-xxxlg"
         ],
-        "description": "padding: var(--space-xxxl)"
+        "description": "padding: var(--space-xxxlg)"
     },
     "padding-xxxxlg": {
         "prefix": "padding-xxxxlg",
         "body": [
             "padding-xxxxlg"
         ],
-        "description": "padding: var(--space-xxxxl)"
+        "description": "padding: var(--space-xxxxlg)"
     },
     "padding-top-0": {
         "prefix": "padding-top-0",
@@ -1299,28 +1299,28 @@
         "body": [
             "padding-top-xxxxsm"
         ],
-        "description": "padding-top: var(--space-xxxxs)"
+        "description": "padding-top: var(--space-xxxxsm)"
     },
     "padding-top-xxxsm": {
         "prefix": "padding-top-xxxsm",
         "body": [
             "padding-top-xxxsm"
         ],
-        "description": "padding-top: var(--space-xxxs)"
+        "description": "padding-top: var(--space-xxxsm)"
     },
     "padding-top-xxsm": {
         "prefix": "padding-top-xxsm",
         "body": [
             "padding-top-xxsm"
         ],
-        "description": "padding-top: var(--space-xxs)"
+        "description": "padding-top: var(--space-xxsm)"
     },
     "padding-top-xsm": {
         "prefix": "padding-top-xsm",
         "body": [
             "padding-top-xsm"
         ],
-        "description": "padding-top: var(--space-xs)"
+        "description": "padding-top: var(--space-xsm)"
     },
     "padding-top-sm": {
         "prefix": "padding-top-sm",
@@ -1348,28 +1348,28 @@
         "body": [
             "padding-top-xlg"
         ],
-        "description": "padding-top: var(--space-xl)"
+        "description": "padding-top: var(--space-xlg)"
     },
     "padding-top-xxlg": {
         "prefix": "padding-top-xxlg",
         "body": [
             "padding-top-xxlg"
         ],
-        "description": "padding-top: var(--space-xxl)"
+        "description": "padding-top: var(--space-xxlg)"
     },
     "padding-top-xxxlg": {
         "prefix": "padding-top-xxxlg",
         "body": [
             "padding-top-xxxlg"
         ],
-        "description": "padding-top: var(--space-xxxl)"
+        "description": "padding-top: var(--space-xxxlg)"
     },
     "padding-top-xxxxlg": {
         "prefix": "padding-top-xxxxlg",
         "body": [
             "padding-top-xxxxlg"
         ],
-        "description": "padding-top: var(--space-xxxxl)"
+        "description": "padding-top: var(--space-xxxxlg)"
     },
     "padding-right-0": {
         "prefix": "padding-right-0",
@@ -1383,28 +1383,28 @@
         "body": [
             "padding-right-xxxxsm"
         ],
-        "description": "padding-right: var(--space-xxxxs)"
+        "description": "padding-right: var(--space-xxxxsm)"
     },
     "padding-right-xxxsm": {
         "prefix": "padding-right-xxxsm",
         "body": [
             "padding-right-xxxsm"
         ],
-        "description": "padding-right: var(--space-xxxs)"
+        "description": "padding-right: var(--space-xxxsm)"
     },
     "padding-right-xxsm": {
         "prefix": "padding-right-xxsm",
         "body": [
             "padding-right-xxsm"
         ],
-        "description": "padding-right: var(--space-xxs)"
+        "description": "padding-right: var(--space-xxsm)"
     },
     "padding-right-xsm": {
         "prefix": "padding-right-xsm",
         "body": [
             "padding-right-xsm"
         ],
-        "description": "padding-right: var(--space-xs)"
+        "description": "padding-right: var(--space-xsm)"
     },
     "padding-right-sm": {
         "prefix": "padding-right-sm",
@@ -1432,28 +1432,28 @@
         "body": [
             "padding-right-xlg"
         ],
-        "description": "padding-right: var(--space-xl)"
+        "description": "padding-right: var(--space-xlg)"
     },
     "padding-right-xxlg": {
         "prefix": "padding-right-xxlg",
         "body": [
             "padding-right-xxlg"
         ],
-        "description": "padding-right: var(--space-xxl)"
+        "description": "padding-right: var(--space-xxlg)"
     },
     "padding-right-xxxlg": {
         "prefix": "padding-right-xxxlg",
         "body": [
             "padding-right-xxxlg"
         ],
-        "description": "padding-right: var(--space-xxxl)"
+        "description": "padding-right: var(--space-xxxlg)"
     },
     "padding-right-xxxxlg": {
         "prefix": "padding-right-xxxxlg",
         "body": [
             "padding-right-xxxxlg"
         ],
-        "description": "padding-right: var(--space-xxxxl)"
+        "description": "padding-right: var(--space-xxxxlg)"
     },
     "padding-bottom-0": {
         "prefix": "padding-bottom-0",
@@ -1467,28 +1467,28 @@
         "body": [
             "padding-bottom-xxxxsm"
         ],
-        "description": "padding-bottom: var(--space-xxxxs)"
+        "description": "padding-bottom: var(--space-xxxxsm)"
     },
     "padding-bottom-xxxsm": {
         "prefix": "padding-bottom-xxxsm",
         "body": [
             "padding-bottom-xxxsm"
         ],
-        "description": "padding-bottom: var(--space-xxxs)"
+        "description": "padding-bottom: var(--space-xxxsm)"
     },
     "padding-bottom-xxsm": {
         "prefix": "padding-bottom-xxsm",
         "body": [
             "padding-bottom-xxsm"
         ],
-        "description": "padding-bottom: var(--space-xxs)"
+        "description": "padding-bottom: var(--space-xxsm)"
     },
     "padding-bottom-xsm": {
         "prefix": "padding-bottom-xsm",
         "body": [
             "padding-bottom-xsm"
         ],
-        "description": "padding-bottom: var(--space-xs)"
+        "description": "padding-bottom: var(--space-xsm)"
     },
     "padding-bottom-sm": {
         "prefix": "padding-bottom-sm",
@@ -1516,28 +1516,28 @@
         "body": [
             "padding-bottom-xlg"
         ],
-        "description": "padding-bottom: var(--space-xl)"
+        "description": "padding-bottom: var(--space-xlg)"
     },
     "padding-bottom-xxlg": {
         "prefix": "padding-bottom-xxlg",
         "body": [
             "padding-bottom-xxlg"
         ],
-        "description": "padding-bottom: var(--space-xxl)"
+        "description": "padding-bottom: var(--space-xxlg)"
     },
     "padding-bottom-xxxlg": {
         "prefix": "padding-bottom-xxxlg",
         "body": [
             "padding-bottom-xxxlg"
         ],
-        "description": "padding-bottom: var(--space-xxxl)"
+        "description": "padding-bottom: var(--space-xxxlg)"
     },
     "padding-bottom-xxxxlg": {
         "prefix": "padding-bottom-xxxxlg",
         "body": [
             "padding-bottom-xxxxlg"
         ],
-        "description": "padding-bottom: var(--space-xxxxl)"
+        "description": "padding-bottom: var(--space-xxxxlg)"
     },
     "margin-0": {
         "prefix": "margin-0",
@@ -1551,28 +1551,28 @@
         "body": [
             "margin-xxxxsm"
         ],
-        "description": "margin: var(--space-xxxxs)"
+        "description": "margin: var(--space-xxxxsm)"
     },
     "margin-xxxsm": {
         "prefix": "margin-xxxsm",
         "body": [
             "margin-xxxsm"
         ],
-        "description": "margin: var(--space-xxxs)"
+        "description": "margin: var(--space-xxxsm)"
     },
     "margin-xxsm": {
         "prefix": "margin-xxsm",
         "body": [
             "margin-xxsm"
         ],
-        "description": "margin: var(--space-xxs)"
+        "description": "margin: var(--space-xxsm)"
     },
     "margin-xsm": {
         "prefix": "margin-xsm",
         "body": [
             "margin-xsm"
         ],
-        "description": "margin: var(--space-xs)"
+        "description": "margin: var(--space-xsm)"
     },
     "margin-sm": {
         "prefix": "margin-sm",
@@ -1600,28 +1600,28 @@
         "body": [
             "margin-xlg"
         ],
-        "description": "margin: var(--space-xl)"
+        "description": "margin: var(--space-xlg)"
     },
     "margin-xxlg": {
         "prefix": "margin-xxlg",
         "body": [
             "margin-xxlg"
         ],
-        "description": "margin: var(--space-xxl)"
+        "description": "margin: var(--space-xxlg)"
     },
     "margin-xxxlg": {
         "prefix": "margin-xxxlg",
         "body": [
             "margin-xxxlg"
         ],
-        "description": "margin: var(--space-xxxl)"
+        "description": "margin: var(--space-xxxlg)"
     },
     "margin-xxxxlg": {
         "prefix": "margin-xxxxlg",
         "body": [
             "margin-xxxxlg"
         ],
-        "description": "margin: var(--space-xxxxl)"
+        "description": "margin: var(--space-xxxxlg)"
     },
     "margin-top-0": {
         "prefix": "margin-top-0",
@@ -1635,28 +1635,28 @@
         "body": [
             "margin-top-xxxxsm"
         ],
-        "description": "margin-top: var(--space-xxxxs)"
+        "description": "margin-top: var(--space-xxxxsm)"
     },
     "margin-top-xxxsm": {
         "prefix": "margin-top-xxxsm",
         "body": [
             "margin-top-xxxsm"
         ],
-        "description": "margin-top: var(--space-xxxs)"
+        "description": "margin-top: var(--space-xxxsm)"
     },
     "margin-top-xxsm": {
         "prefix": "margin-top-xxsm",
         "body": [
             "margin-top-xxsm"
         ],
-        "description": "margin-top: var(--space-xxs)"
+        "description": "margin-top: var(--space-xxsm)"
     },
     "margin-top-xsm": {
         "prefix": "margin-top-xsm",
         "body": [
             "margin-top-xsm"
         ],
-        "description": "margin-top: var(--space-xs)"
+        "description": "margin-top: var(--space-xsm)"
     },
     "margin-top-sm": {
         "prefix": "margin-top-sm",
@@ -1684,28 +1684,28 @@
         "body": [
             "margin-top-xlg"
         ],
-        "description": "margin-top: var(--space-xl)"
+        "description": "margin-top: var(--space-xlg)"
     },
     "margin-top-xxlg": {
         "prefix": "margin-top-xxlg",
         "body": [
             "margin-top-xxlg"
         ],
-        "description": "margin-top: var(--space-xxl)"
+        "description": "margin-top: var(--space-xxlg)"
     },
     "margin-top-xxxlg": {
         "prefix": "margin-top-xxxlg",
         "body": [
             "margin-top-xxxlg"
         ],
-        "description": "margin-top: var(--space-xxxl)"
+        "description": "margin-top: var(--space-xxxlg)"
     },
     "margin-top-xxxxlg": {
         "prefix": "margin-top-xxxxlg",
         "body": [
             "margin-top-xxxxlg"
         ],
-        "description": "margin-top: var(--space-xxxxl)"
+        "description": "margin-top: var(--space-xxxxlg)"
     },
     "margin-right-0": {
         "prefix": "margin-right-0",
@@ -1719,28 +1719,28 @@
         "body": [
             "margin-right-xxxxsm"
         ],
-        "description": "margin-right: var(--space-xxxxs)"
+        "description": "margin-right: var(--space-xxxxsm)"
     },
     "margin-right-xxxsm": {
         "prefix": "margin-right-xxxsm",
         "body": [
             "margin-right-xxxsm"
         ],
-        "description": "margin-right: var(--space-xxxs)"
+        "description": "margin-right: var(--space-xxxsm)"
     },
     "margin-right-xxsm": {
         "prefix": "margin-right-xxsm",
         "body": [
             "margin-right-xxsm"
         ],
-        "description": "margin-right: var(--space-xxs)"
+        "description": "margin-right: var(--space-xxsm)"
     },
     "margin-right-xsm": {
         "prefix": "margin-right-xsm",
         "body": [
             "margin-right-xsm"
         ],
-        "description": "margin-right: var(--space-xs)"
+        "description": "margin-right: var(--space-xsm)"
     },
     "margin-right-sm": {
         "prefix": "margin-right-sm",
@@ -1768,28 +1768,28 @@
         "body": [
             "margin-right-xlg"
         ],
-        "description": "margin-right: var(--space-xl)"
+        "description": "margin-right: var(--space-xlg)"
     },
     "margin-right-xxlg": {
         "prefix": "margin-right-xxlg",
         "body": [
             "margin-right-xxlg"
         ],
-        "description": "margin-right: var(--space-xxl)"
+        "description": "margin-right: var(--space-xxlg)"
     },
     "margin-right-xxxlg": {
         "prefix": "margin-right-xxxlg",
         "body": [
             "margin-right-xxxlg"
         ],
-        "description": "margin-right: var(--space-xxxl)"
+        "description": "margin-right: var(--space-xxxlg)"
     },
     "margin-right-xxxxlg": {
         "prefix": "margin-right-xxxxlg",
         "body": [
             "margin-right-xxxxlg"
         ],
-        "description": "margin-right: var(--space-xxxxl)"
+        "description": "margin-right: var(--space-xxxxlg)"
     },
     "margin-bottom-0": {
         "prefix": "margin-bottom-0",
@@ -1803,28 +1803,28 @@
         "body": [
             "margin-bottom-xxxxsm"
         ],
-        "description": "margin-bottom: var(--space-xxxxs)"
+        "description": "margin-bottom: var(--space-xxxxsm)"
     },
     "margin-bottom-xxxsm": {
         "prefix": "margin-bottom-xxxsm",
         "body": [
             "margin-bottom-xxxsm"
         ],
-        "description": "margin-bottom: var(--space-xxxs)"
+        "description": "margin-bottom: var(--space-xxxsm)"
     },
     "margin-bottom-xxsm": {
         "prefix": "margin-bottom-xxsm",
         "body": [
             "margin-bottom-xxsm"
         ],
-        "description": "margin-bottom: var(--space-xxs)"
+        "description": "margin-bottom: var(--space-xxsm)"
     },
     "margin-bottom-xsm": {
         "prefix": "margin-bottom-xsm",
         "body": [
             "margin-bottom-xsm"
         ],
-        "description": "margin-bottom: var(--space-xs)"
+        "description": "margin-bottom: var(--space-xsm)"
     },
     "margin-bottom-sm": {
         "prefix": "margin-bottom-sm",
@@ -1852,28 +1852,28 @@
         "body": [
             "margin-bottom-xlg"
         ],
-        "description": "margin-bottom: var(--space-xl)"
+        "description": "margin-bottom: var(--space-xlg)"
     },
     "margin-bottom-xxlg": {
         "prefix": "margin-bottom-xxlg",
         "body": [
             "margin-bottom-xxlg"
         ],
-        "description": "margin-bottom: var(--space-xxl)"
+        "description": "margin-bottom: var(--space-xxlg)"
     },
     "margin-bottom-xxxlg": {
         "prefix": "margin-bottom-xxxlg",
         "body": [
             "margin-bottom-xxxlg"
         ],
-        "description": "margin-bottom: var(--space-xxxl)"
+        "description": "margin-bottom: var(--space-xxxlg)"
     },
     "margin-bottom-xxxxlg": {
         "prefix": "margin-bottom-xxxxlg",
         "body": [
             "margin-bottom-xxxxlg"
         ],
-        "description": "margin-bottom: var(--space-xxxxl)"
+        "description": "margin-bottom: var(--space-xxxxlg)"
     },
     "text-default@xsm": {
         "prefix": "text-default@xsm",
@@ -1908,28 +1908,28 @@
         "body": [
             "text-xlg@xsm"
         ],
-        "description": "font-size: var(--text-xl)"
+        "description": "font-size: var(--text-xlg)"
     },
     "text-xxlg@xsm": {
         "prefix": "text-xxlg@xsm",
         "body": [
             "text-xxlg@xsm"
         ],
-        "description": "font-size: var(--text-xxl)"
+        "description": "font-size: var(--text-xxlg)"
     },
     "text-xxxlg@xsm": {
         "prefix": "text-xxxlg@xsm",
         "body": [
             "text-xxxlg@xsm"
         ],
-        "description": "font-size: var(--text-xxxl)"
+        "description": "font-size: var(--text-xxxlg)"
     },
     "text-xxxxlg@xsm": {
         "prefix": "text-xxxxlg@xsm",
         "body": [
             "text-xxxxlg@xsm"
         ],
-        "description": "font-size: var(--text-xxxxl)"
+        "description": "font-size: var(--text-xxxxlg)"
     },
     "line-height-default@xsm": {
         "prefix": "line-height-default@xsm",
@@ -2671,28 +2671,28 @@
         "body": [
             "padding-xxxxsm@xsm"
         ],
-        "description": "padding: var(--space-xxxxs)"
+        "description": "padding: var(--space-xxxxsm)"
     },
     "padding-xxxsm@xsm": {
         "prefix": "padding-xxxsm@xsm",
         "body": [
             "padding-xxxsm@xsm"
         ],
-        "description": "padding: var(--space-xxxs)"
+        "description": "padding: var(--space-xxxsm)"
     },
     "padding-xxsm@xsm": {
         "prefix": "padding-xxsm@xsm",
         "body": [
             "padding-xxsm@xsm"
         ],
-        "description": "padding: var(--space-xxs)"
+        "description": "padding: var(--space-xxsm)"
     },
     "padding-xsm@xsm": {
         "prefix": "padding-xsm@xsm",
         "body": [
             "padding-xsm@xsm"
         ],
-        "description": "padding: var(--space-xs)"
+        "description": "padding: var(--space-xsm)"
     },
     "padding-sm@xsm": {
         "prefix": "padding-sm@xsm",
@@ -2720,28 +2720,28 @@
         "body": [
             "padding-xlg@xsm"
         ],
-        "description": "padding: var(--space-xl)"
+        "description": "padding: var(--space-xlg)"
     },
     "padding-xxlg@xsm": {
         "prefix": "padding-xxlg@xsm",
         "body": [
             "padding-xxlg@xsm"
         ],
-        "description": "padding: var(--space-xxl)"
+        "description": "padding: var(--space-xxlg)"
     },
     "padding-xxxlg@xsm": {
         "prefix": "padding-xxxlg@xsm",
         "body": [
             "padding-xxxlg@xsm"
         ],
-        "description": "padding: var(--space-xxxl)"
+        "description": "padding: var(--space-xxxlg)"
     },
     "padding-xxxxlg@xsm": {
         "prefix": "padding-xxxxlg@xsm",
         "body": [
             "padding-xxxxlg@xsm"
         ],
-        "description": "padding: var(--space-xxxxl)"
+        "description": "padding: var(--space-xxxxlg)"
     },
     "padding-top-0@xsm": {
         "prefix": "padding-top-0@xsm",
@@ -2755,28 +2755,28 @@
         "body": [
             "padding-top-xxxxsm@xsm"
         ],
-        "description": "padding-top: var(--space-xxxxs)"
+        "description": "padding-top: var(--space-xxxxsm)"
     },
     "padding-top-xxxsm@xsm": {
         "prefix": "padding-top-xxxsm@xsm",
         "body": [
             "padding-top-xxxsm@xsm"
         ],
-        "description": "padding-top: var(--space-xxxs)"
+        "description": "padding-top: var(--space-xxxsm)"
     },
     "padding-top-xxsm@xsm": {
         "prefix": "padding-top-xxsm@xsm",
         "body": [
             "padding-top-xxsm@xsm"
         ],
-        "description": "padding-top: var(--space-xxs)"
+        "description": "padding-top: var(--space-xxsm)"
     },
     "padding-top-xsm@xsm": {
         "prefix": "padding-top-xsm@xsm",
         "body": [
             "padding-top-xsm@xsm"
         ],
-        "description": "padding-top: var(--space-xs)"
+        "description": "padding-top: var(--space-xsm)"
     },
     "padding-top-sm@xsm": {
         "prefix": "padding-top-sm@xsm",
@@ -2804,28 +2804,28 @@
         "body": [
             "padding-top-xlg@xsm"
         ],
-        "description": "padding-top: var(--space-xl)"
+        "description": "padding-top: var(--space-xlg)"
     },
     "padding-top-xxlg@xsm": {
         "prefix": "padding-top-xxlg@xsm",
         "body": [
             "padding-top-xxlg@xsm"
         ],
-        "description": "padding-top: var(--space-xxl)"
+        "description": "padding-top: var(--space-xxlg)"
     },
     "padding-top-xxxlg@xsm": {
         "prefix": "padding-top-xxxlg@xsm",
         "body": [
             "padding-top-xxxlg@xsm"
         ],
-        "description": "padding-top: var(--space-xxxl)"
+        "description": "padding-top: var(--space-xxxlg)"
     },
     "padding-top-xxxxlg@xsm": {
         "prefix": "padding-top-xxxxlg@xsm",
         "body": [
             "padding-top-xxxxlg@xsm"
         ],
-        "description": "padding-top: var(--space-xxxxl)"
+        "description": "padding-top: var(--space-xxxxlg)"
     },
     "padding-right-0@xsm": {
         "prefix": "padding-right-0@xsm",
@@ -2839,28 +2839,28 @@
         "body": [
             "padding-right-xxxxs@xsm"
         ],
-        "description": "padding-right: var(--space-xxxxs)"
+        "description": "padding-right: var(--space-xxxxsm)"
     },
     "padding-right-xxxs@xsm": {
         "prefix": "padding-right-xxxs@xsm",
         "body": [
             "padding-right-xxxs@xsm"
         ],
-        "description": "padding-right: var(--space-xxxs)"
+        "description": "padding-right: var(--space-xxxsm)"
     },
     "padding-right-xxs@xsm": {
         "prefix": "padding-right-xxs@xsm",
         "body": [
             "padding-right-xxs@xsm"
         ],
-        "description": "padding-right: var(--space-xxs)"
+        "description": "padding-right: var(--space-xxsm)"
     },
     "padding-right-xs@xsm": {
         "prefix": "padding-right-xs@xsm",
         "body": [
             "padding-right-xs@xsm"
         ],
-        "description": "padding-right: var(--space-xs)"
+        "description": "padding-right: var(--space-xsm)"
     },
     "padding-right-sm@xsm": {
         "prefix": "padding-right-sm@xsm",
@@ -2888,28 +2888,28 @@
         "body": [
             "padding-right-xl@xsm"
         ],
-        "description": "padding-right: var(--space-xl)"
+        "description": "padding-right: var(--space-xlg)"
     },
     "padding-right-xxl@xsm": {
         "prefix": "padding-right-xxl@xsm",
         "body": [
             "padding-right-xxl@xsm"
         ],
-        "description": "padding-right: var(--space-xxl)"
+        "description": "padding-right: var(--space-xxlg)"
     },
     "padding-right-xxxl@xsm": {
         "prefix": "padding-right-xxxl@xsm",
         "body": [
             "padding-right-xxxl@xsm"
         ],
-        "description": "padding-right: var(--space-xxxl)"
+        "description": "padding-right: var(--space-xxxlg)"
     },
     "padding-right-xxxxl@xsm": {
         "prefix": "padding-right-xxxxl@xsm",
         "body": [
             "padding-right-xxxxl@xsm"
         ],
-        "description": "padding-right: var(--space-xxxxl)"
+        "description": "padding-right: var(--space-xxxxlg)"
     },
     "padding-bottom-0@xsm": {
         "prefix": "padding-bottom-0@xsm",
@@ -2930,21 +2930,21 @@
         "body": [
             "padding-bottom-xxxs@xsm"
         ],
-        "description": "padding-bottom: var(--space-xxxs)"
+        "description": "padding-bottom: var(--space-xxxsm)"
     },
     "padding-bottom-xxs@xsm": {
         "prefix": "padding-bottom-xxs@xsm",
         "body": [
             "padding-bottom-xxs@xsm"
         ],
-        "description": "padding-bottom: var(--space-xxs)"
+        "description": "padding-bottom: var(--space-xxsm)"
     },
     "padding-bottom-xs@xsm": {
         "prefix": "padding-bottom-xs@xsm",
         "body": [
             "padding-bottom-xs@xsm"
         ],
-        "description": "padding-bottom: var(--space-xs)"
+        "description": "padding-bottom: var(--space-xsm)"
     },
     "padding-bottom-sm@xsm": {
         "prefix": "padding-bottom-sm@xsm",
@@ -2972,21 +2972,21 @@
         "body": [
             "padding-bottom-xl@xsm"
         ],
-        "description": "padding-bottom: var(--space-xl)"
+        "description": "padding-bottom: var(--space-xlg)"
     },
     "padding-bottom-xxl@xsm": {
         "prefix": "padding-bottom-xxl@xsm",
         "body": [
             "padding-bottom-xxl@xsm"
         ],
-        "description": "padding-bottom: var(--space-xxl)"
+        "description": "padding-bottom: var(--space-xxlg)"
     },
     "padding-bottom-xxxl@xsm": {
         "prefix": "padding-bottom-xxxl@xsm",
         "body": [
             "padding-bottom-xxxl@xsm"
         ],
-        "description": "padding-bottom: var(--space-xxxl)"
+        "description": "padding-bottom: var(--space-xxxlg)"
     },
     "padding-bottom-xxxxl@xsm": {
         "prefix": "padding-bottom-xxxxl@xsm",
@@ -3007,28 +3007,28 @@
         "body": [
             "padding-left-xxxxs@xsm"
         ],
-        "description": "padding-left: var(--space-xxxxs)"
+        "description": "padding-left: var(--space-xxxxsm)"
     },
     "padding-left-xxxs@xsm": {
         "prefix": "padding-left-xxxs@xsm",
         "body": [
             "padding-left-xxxs@xsm"
         ],
-        "description": "padding-left: var(--space-xxxs)"
+        "description": "padding-left: var(--space-xxxsm)"
     },
     "padding-left-xxs@xsm": {
         "prefix": "padding-left-xxs@xsm",
         "body": [
             "padding-left-xxs@xsm"
         ],
-        "description": "padding-left: var(--space-xxs)"
+        "description": "padding-left: var(--space-xxsm)"
     },
     "padding-left-xs@xsm": {
         "prefix": "padding-left-xs@xsm",
         "body": [
             "padding-left-xs@xsm"
         ],
-        "description": "padding-left: var(--space-xs)"
+        "description": "padding-left: var(--space-xsm)"
     },
     "padding-left-sm@xsm": {
         "prefix": "padding-left-sm@xsm",
@@ -3056,28 +3056,28 @@
         "body": [
             "padding-left-xl@xsm"
         ],
-        "description": "padding-left: var(--space-xl)"
+        "description": "padding-left: var(--space-xlg)"
     },
     "padding-left-xxl@xsm": {
         "prefix": "padding-left-xxl@xsm",
         "body": [
             "padding-left-xxl@xsm"
         ],
-        "description": "padding-left: var(--space-xxl)"
+        "description": "padding-left: var(--space-xxlg)"
     },
     "padding-left-xxxl@xsm": {
         "prefix": "padding-left-xxxl@xsm",
         "body": [
             "padding-left-xxxl@xsm"
         ],
-        "description": "padding-left: var(--space-xxxl)"
+        "description": "padding-left: var(--space-xxxlg)"
     },
     "padding-left-xxxxl@xsm": {
         "prefix": "padding-left-xxxxl@xsm",
         "body": [
             "padding-left-xxxxl@xsm"
         ],
-        "description": "padding-left: var(--space-xxxxl)"
+        "description": "padding-left: var(--space-xxxxlg)"
     },
     "margin-0@xsm": {
         "prefix": "margin-0@xsm",
@@ -3091,28 +3091,28 @@
         "body": [
             "margin-xxxxsm@xsm"
         ],
-        "description": "margin: var(--space-xxxxs)"
+        "description": "margin: var(--space-xxxxsm)"
     },
     "margin-xxxsm@xsm": {
         "prefix": "margin-xxxsm@xsm",
         "body": [
             "margin-xxxsm@xsm"
         ],
-        "description": "margin: var(--space-xxxs)"
+        "description": "margin: var(--space-xxxsm)"
     },
     "margin-xxsm@xsm": {
         "prefix": "margin-xxsm@xsm",
         "body": [
             "margin-xxsm@xsm"
         ],
-        "description": "margin: var(--space-xxs)"
+        "description": "margin: var(--space-xxsm)"
     },
     "margin-xsm@xsm": {
         "prefix": "margin-xsm@xsm",
         "body": [
             "margin-xsm@xsm"
         ],
-        "description": "margin: var(--space-xs)"
+        "description": "margin: var(--space-xsm)"
     },
     "margin-sm@xsm": {
         "prefix": "margin-sm@xsm",
@@ -3140,28 +3140,28 @@
         "body": [
             "margin-xlg@xsm"
         ],
-        "description": "margin: var(--space-xl)"
+        "description": "margin: var(--space-xlg)"
     },
     "margin-xxlg@xsm": {
         "prefix": "margin-xxlg@xsm",
         "body": [
             "margin-xxlg@xsm"
         ],
-        "description": "margin: var(--space-xxl)"
+        "description": "margin: var(--space-xxlg)"
     },
     "margin-xxxlg@xsm": {
         "prefix": "margin-xxxlg@xsm",
         "body": [
             "margin-xxxlg@xsm"
         ],
-        "description": "margin: var(--space-xxxl)"
+        "description": "margin: var(--space-xxxlg)"
     },
     "margin-xxxxlg@xsm": {
         "prefix": "margin-xxxxlg@xsm",
         "body": [
             "margin-xxxxlg@xsm"
         ],
-        "description": "margin: var(--space-xxxxl)"
+        "description": "margin: var(--space-xxxxlg)"
     },
     "margin-top-0@xsm": {
         "prefix": "margin-top-0@xsm",
@@ -3175,28 +3175,28 @@
         "body": [
             "margin-top-xxxxsm@xsm"
         ],
-        "description": "margin-top: var(--space-xxxxs)"
+        "description": "margin-top: var(--space-xxxxsm)"
     },
     "margin-top-xxxsm@xsm": {
         "prefix": "margin-top-xxxsm@xsm",
         "body": [
             "margin-top-xxxsm@xsm"
         ],
-        "description": "margin-top: var(--space-xxxs)"
+        "description": "margin-top: var(--space-xxxsm)"
     },
     "margin-top-xxsm@xsm": {
         "prefix": "margin-top-xxsm@xsm",
         "body": [
             "margin-top-xxsm@xsm"
         ],
-        "description": "margin-top: var(--space-xxs)"
+        "description": "margin-top: var(--space-xxsm)"
     },
     "margin-top-xsm@xsm": {
         "prefix": "margin-top-xsm@xsm",
         "body": [
             "margin-top-xsm@xsm"
         ],
-        "description": "margin-top: var(--space-xs)"
+        "description": "margin-top: var(--space-xsm)"
     },
     "margin-top-sm@xsm": {
         "prefix": "margin-top-sm@xsm",
@@ -3224,28 +3224,28 @@
         "body": [
             "margin-top-xlg@xsm"
         ],
-        "description": "margin-top: var(--space-xl)"
+        "description": "margin-top: var(--space-xlg)"
     },
     "margin-top-xxlg@xsm": {
         "prefix": "margin-top-xxlg@xsm",
         "body": [
             "margin-top-xxlg@xsm"
         ],
-        "description": "margin-top: var(--space-xxl)"
+        "description": "margin-top: var(--space-xxlg)"
     },
     "margin-top-xxxlg@xsm": {
         "prefix": "margin-top-xxxlg@xsm",
         "body": [
             "margin-top-xxxlg@xsm"
         ],
-        "description": "margin-top: var(--space-xxxl)"
+        "description": "margin-top: var(--space-xxxlg)"
     },
     "margin-top-xxxxlg@xsm": {
         "prefix": "margin-top-xxxxlg@xsm",
         "body": [
             "margin-top-xxxxlg@xsm"
         ],
-        "description": "margin-top: var(--space-xxxxl)"
+        "description": "margin-top: var(--space-xxxxlg)"
     },
     "margin-right-0@xsm": {
         "prefix": "margin-right-0@xsm",
@@ -3259,28 +3259,28 @@
         "body": [
             "margin-right-xxxxs@xsm"
         ],
-        "description": "margin-right: var(--space-xxxxs)"
+        "description": "margin-right: var(--space-xxxxsm)"
     },
     "margin-right-xxxs@xsm": {
         "prefix": "margin-right-xxxs@xsm",
         "body": [
             "margin-right-xxxs@xsm"
         ],
-        "description": "margin-right: var(--space-xxxs)"
+        "description": "margin-right: var(--space-xxxsm)"
     },
     "margin-right-xxs@xsm": {
         "prefix": "margin-right-xxs@xsm",
         "body": [
             "margin-right-xxs@xsm"
         ],
-        "description": "margin-right: var(--space-xxs)"
+        "description": "margin-right: var(--space-xxsm)"
     },
     "margin-right-xs@xsm": {
         "prefix": "margin-right-xs@xsm",
         "body": [
             "margin-right-xs@xsm"
         ],
-        "description": "margin-right: var(--space-xs)"
+        "description": "margin-right: var(--space-xsm)"
     },
     "margin-right-sm@xsm": {
         "prefix": "margin-right-sm@xsm",
@@ -3308,28 +3308,28 @@
         "body": [
             "margin-right-xl@xsm"
         ],
-        "description": "margin-right: var(--space-xl)"
+        "description": "margin-right: var(--space-xlg)"
     },
     "margin-right-xxl@xsm": {
         "prefix": "margin-right-xxl@xsm",
         "body": [
             "margin-right-xxl@xsm"
         ],
-        "description": "margin-right: var(--space-xxl)"
+        "description": "margin-right: var(--space-xxlg)"
     },
     "margin-right-xxxl@xsm": {
         "prefix": "margin-right-xxxl@xsm",
         "body": [
             "margin-right-xxxl@xsm"
         ],
-        "description": "margin-right: var(--space-xxxl)"
+        "description": "margin-right: var(--space-xxxlg)"
     },
     "margin-right-xxxxl@xsm": {
         "prefix": "margin-right-xxxxl@xsm",
         "body": [
             "margin-right-xxxxl@xsm"
         ],
-        "description": "margin-right: var(--space-xxxxl)"
+        "description": "margin-right: var(--space-xxxxlg)"
     },
     "margin-bottom-0@xsm": {
         "prefix": "margin-bottom-0@xsm",
@@ -3343,28 +3343,28 @@
         "body": [
             "margin-bottom-xxxxs@xsm"
         ],
-        "description": "margin-bottom: var(--space-xxxxs)"
+        "description": "margin-bottom: var(--space-xxxxsm)"
     },
     "margin-bottom-xxxs@xsm": {
         "prefix": "margin-bottom-xxxs@xsm",
         "body": [
             "margin-bottom-xxxs@xsm"
         ],
-        "description": "margin-bottom: var(--space-xxxs)"
+        "description": "margin-bottom: var(--space-xxxsm)"
     },
     "margin-bottom-xxs@xsm": {
         "prefix": "margin-bottom-xxs@xsm",
         "body": [
             "margin-bottom-xxs@xsm"
         ],
-        "description": "margin-bottom: var(--space-xxs)"
+        "description": "margin-bottom: var(--space-xxsm)"
     },
     "margin-bottom-xs@xsm": {
         "prefix": "margin-bottom-xs@xsm",
         "body": [
             "margin-bottom-xs@xsm"
         ],
-        "description": "margin-bottom: var(--space-xs)"
+        "description": "margin-bottom: var(--space-xsm)"
     },
     "margin-bottom-sm@xsm": {
         "prefix": "margin-bottom-sm@xsm",
@@ -3392,28 +3392,28 @@
         "body": [
             "margin-bottom-xl@xsm"
         ],
-        "description": "margin-bottom: var(--space-xl)"
+        "description": "margin-bottom: var(--space-xlg)"
     },
     "margin-bottom-xxl@xsm": {
         "prefix": "margin-bottom-xxl@xsm",
         "body": [
             "margin-bottom-xxl@xsm"
         ],
-        "description": "margin-bottom: var(--space-xxl)"
+        "description": "margin-bottom: var(--space-xxlg)"
     },
     "margin-bottom-xxxl@xsm": {
         "prefix": "margin-bottom-xxxl@xsm",
         "body": [
             "margin-bottom-xxxl@xsm"
         ],
-        "description": "margin-bottom: var(--space-xxxl)"
+        "description": "margin-bottom: var(--space-xxxlg)"
     },
     "margin-bottom-xxxxl@xsm": {
         "prefix": "margin-bottom-xxxxl@xsm",
         "body": [
             "margin-bottom-xxxxl@xsm"
         ],
-        "description": "margin-bottom: var(--space-xxxxl)"
+        "description": "margin-bottom: var(--space-xxxxlg)"
     },
     "margin-left-0@xsm": {
         "prefix": "margin-left-0@xsm",
@@ -3427,28 +3427,28 @@
         "body": [
             "margin-left-xxxxs@xsm"
         ],
-        "description": "margin-left: var(--space-xxxxs)"
+        "description": "margin-left: var(--space-xxxxsm)"
     },
     "margin-left-xxxs@xsm": {
         "prefix": "margin-left-xxxs@xsm",
         "body": [
             "margin-left-xxxs@xsm"
         ],
-        "description": "margin-left: var(--space-xxxs)"
+        "description": "margin-left: var(--space-xxxsm)"
     },
     "margin-left-xxs@xsm": {
         "prefix": "margin-left-xxs@xsm",
         "body": [
             "margin-left-xxs@xsm"
         ],
-        "description": "margin-left: var(--space-xxs)"
+        "description": "margin-left: var(--space-xxsm)"
     },
     "margin-left-xs@xsm": {
         "prefix": "margin-left-xs@xsm",
         "body": [
             "margin-left-xs@xsm"
         ],
-        "description": "margin-left: var(--space-xs)"
+        "description": "margin-left: var(--space-xsm)"
     },
     "margin-left-sm@xsm": {
         "prefix": "margin-left-sm@xsm",
@@ -3476,28 +3476,28 @@
         "body": [
             "margin-left-xl@xsm"
         ],
-        "description": "margin-left: var(--space-xl)"
+        "description": "margin-left: var(--space-xlg)"
     },
     "margin-left-xxl@xsm": {
         "prefix": "margin-left-xxl@xsm",
         "body": [
             "margin-left-xxl@xsm"
         ],
-        "description": "margin-left: var(--space-xxl)"
+        "description": "margin-left: var(--space-xxlg)"
     },
     "margin-left-xxxl@xsm": {
         "prefix": "margin-left-xxxl@xsm",
         "body": [
             "margin-left-xxxl@xsm"
         ],
-        "description": "margin-left: var(--space-xxxl)"
+        "description": "margin-left: var(--space-xxxlg)"
     },
     "margin-left-xxxxl@xsm": {
         "prefix": "margin-left-xxxxl@xsm",
         "body": [
             "margin-left-xxxxl@xsm"
         ],
-        "description": "margin-left: var(--space-xxxxl);"
+        "description": "margin-left: var(--space-xxxxlg);"
     },
     "text-default@sm": {
         "prefix": "text-default@sm",
@@ -3532,28 +3532,28 @@
         "body": [
             "text-xlg@sm"
         ],
-        "description": "font-size: var(--text-xl)"
+        "description": "font-size: var(--text-xlg)"
     },
     "text-xxlg@sm": {
         "prefix": "text-xxlg@sm",
         "body": [
             "text-xxlg@sm"
         ],
-        "description": "font-size: var(--text-xxl)"
+        "description": "font-size: var(--text-xxlg)"
     },
     "text-xxxlg@sm": {
         "prefix": "text-xxxlg@sm",
         "body": [
             "text-xxxlg@sm"
         ],
-        "description": "font-size: var(--text-xxxl)"
+        "description": "font-size: var(--text-xxxlg)"
     },
     "text-xxxxlg@sm": {
         "prefix": "text-xxxxlg@sm",
         "body": [
             "text-xxxxlg@sm"
         ],
-        "description": "font-size: var(--text-xxxxl)"
+        "description": "font-size: var(--text-xxxxlg)"
     },
     "line-height-default@sm": {
         "prefix": "line-height-default@sm",
@@ -4295,28 +4295,28 @@
         "body": [
             "padding-xxxxsm@sm"
         ],
-        "description": "padding: var(--space-xxxxs)"
+        "description": "padding: var(--space-xxxxsm)"
     },
     "padding-xxxsm@sm": {
         "prefix": "padding-xxxsm@sm",
         "body": [
             "padding-xxxsm@sm"
         ],
-        "description": "padding: var(--space-xxxs)"
+        "description": "padding: var(--space-xxxsm)"
     },
     "padding-xxsm@sm": {
         "prefix": "padding-xxsm@sm",
         "body": [
             "padding-xxsm@sm"
         ],
-        "description": "padding: var(--space-xxs)"
+        "description": "padding: var(--space-xxsm)"
     },
     "padding-xsm@sm": {
         "prefix": "padding-xsm@sm",
         "body": [
             "padding-xsm@sm"
         ],
-        "description": "padding: var(--space-xs)"
+        "description": "padding: var(--space-xsm)"
     },
     "padding-sm@sm": {
         "prefix": "padding-sm@sm",
@@ -4344,28 +4344,28 @@
         "body": [
             "padding-xlg@sm"
         ],
-        "description": "padding: var(--space-xl)"
+        "description": "padding: var(--space-xlg)"
     },
     "padding-xxlg@sm": {
         "prefix": "padding-xxlg@sm",
         "body": [
             "padding-xxlg@sm"
         ],
-        "description": "padding: var(--space-xxl)"
+        "description": "padding: var(--space-xxlg)"
     },
     "padding-xxxlg@sm": {
         "prefix": "padding-xxxlg@sm",
         "body": [
             "padding-xxxlg@sm"
         ],
-        "description": "padding: var(--space-xxxl)"
+        "description": "padding: var(--space-xxxlg)"
     },
     "padding-xxxxlg@sm": {
         "prefix": "padding-xxxxlg@sm",
         "body": [
             "padding-xxxxlg@sm"
         ],
-        "description": "padding: var(--space-xxxxl)"
+        "description": "padding: var(--space-xxxxlg)"
     },
     "padding-top-0@sm": {
         "prefix": "padding-top-0@sm",
@@ -4379,28 +4379,28 @@
         "body": [
             "padding-top-xxxxsm@sm"
         ],
-        "description": "padding-top: var(--space-xxxxs)"
+        "description": "padding-top: var(--space-xxxxsm)"
     },
     "padding-top-xxxsm@sm": {
         "prefix": "padding-top-xxxsm@sm",
         "body": [
             "padding-top-xxxsm@sm"
         ],
-        "description": "padding-top: var(--space-xxxs)"
+        "description": "padding-top: var(--space-xxxsm)"
     },
     "padding-top-xxsm@sm": {
         "prefix": "padding-top-xxsm@sm",
         "body": [
             "padding-top-xxsm@sm"
         ],
-        "description": "padding-top: var(--space-xxs)"
+        "description": "padding-top: var(--space-xxsm)"
     },
     "padding-top-xsm@sm": {
         "prefix": "padding-top-xsm@sm",
         "body": [
             "padding-top-xsm@sm"
         ],
-        "description": "padding-top: var(--space-xs)"
+        "description": "padding-top: var(--space-xsm)"
     },
     "padding-top-sm@sm": {
         "prefix": "padding-top-sm@sm",
@@ -4428,28 +4428,28 @@
         "body": [
             "padding-top-xlg@sm"
         ],
-        "description": "padding-top: var(--space-xl)"
+        "description": "padding-top: var(--space-xlg)"
     },
     "padding-top-xxlg@sm": {
         "prefix": "padding-top-xxlg@sm",
         "body": [
             "padding-top-xxlg@sm"
         ],
-        "description": "padding-top: var(--space-xxl)"
+        "description": "padding-top: var(--space-xxlg)"
     },
     "padding-top-xxxlg@sm": {
         "prefix": "padding-top-xxxlg@sm",
         "body": [
             "padding-top-xxxlg@sm"
         ],
-        "description": "padding-top: var(--space-xxxl)"
+        "description": "padding-top: var(--space-xxxlg)"
     },
     "padding-top-xxxxlg@sm": {
         "prefix": "padding-top-xxxxlg@sm",
         "body": [
             "padding-top-xxxxlg@sm"
         ],
-        "description": "padding-top: var(--space-xxxxl)"
+        "description": "padding-top: var(--space-xxxxlg)"
     },
     "padding-right-0@sm": {
         "prefix": "padding-right-0@sm",
@@ -4463,28 +4463,28 @@
         "body": [
             "padding-right-xxxxs@sm"
         ],
-        "description": "padding-right: var(--space-xxxxs)"
+        "description": "padding-right: var(--space-xxxxsm)"
     },
     "padding-right-xxxs@sm": {
         "prefix": "padding-right-xxxs@sm",
         "body": [
             "padding-right-xxxs@sm"
         ],
-        "description": "padding-right: var(--space-xxxs)"
+        "description": "padding-right: var(--space-xxxsm)"
     },
     "padding-right-xxs@sm": {
         "prefix": "padding-right-xxs@sm",
         "body": [
             "padding-right-xxs@sm"
         ],
-        "description": "padding-right: var(--space-xxs)"
+        "description": "padding-right: var(--space-xxsm)"
     },
     "padding-right-xs@sm": {
         "prefix": "padding-right-xs@sm",
         "body": [
             "padding-right-xs@sm"
         ],
-        "description": "padding-right: var(--space-xs)"
+        "description": "padding-right: var(--space-xsm)"
     },
     "padding-right-sm@sm": {
         "prefix": "padding-right-sm@sm",
@@ -4512,28 +4512,28 @@
         "body": [
             "padding-right-xl@sm"
         ],
-        "description": "padding-right: var(--space-xl)"
+        "description": "padding-right: var(--space-xlg)"
     },
     "padding-right-xxl@sm": {
         "prefix": "padding-right-xxl@sm",
         "body": [
             "padding-right-xxl@sm"
         ],
-        "description": "padding-right: var(--space-xxl)"
+        "description": "padding-right: var(--space-xxlg)"
     },
     "padding-right-xxxl@sm": {
         "prefix": "padding-right-xxxl@sm",
         "body": [
             "padding-right-xxxl@sm"
         ],
-        "description": "padding-right: var(--space-xxxl)"
+        "description": "padding-right: var(--space-xxxlg)"
     },
     "padding-right-xxxxl@sm": {
         "prefix": "padding-right-xxxxl@sm",
         "body": [
             "padding-right-xxxxl@sm"
         ],
-        "description": "padding-right: var(--space-xxxxl)"
+        "description": "padding-right: var(--space-xxxxlg)"
     },
     "padding-bottom-0@sm": {
         "prefix": "padding-bottom-0@sm",
@@ -4547,28 +4547,28 @@
         "body": [
             "padding-bottom-xxxxs@sm"
         ],
-        "description": "padding-bottom: var(--space-xxxxs)"
+        "description": "padding-bottom: var(--space-xxxxsm)"
     },
     "padding-bottom-xxxs@sm": {
         "prefix": "padding-bottom-xxxs@sm",
         "body": [
             "padding-bottom-xxxs@sm"
         ],
-        "description": "padding-bottom: var(--space-xxxs)"
+        "description": "padding-bottom: var(--space-xxxsm)"
     },
     "padding-bottom-xxs@sm": {
         "prefix": "padding-bottom-xxs@sm",
         "body": [
             "padding-bottom-xxs@sm"
         ],
-        "description": "padding-bottom: var(--space-xxs)"
+        "description": "padding-bottom: var(--space-xxsm)"
     },
     "padding-bottom-xs@sm": {
         "prefix": "padding-bottom-xs@sm",
         "body": [
             "padding-bottom-xs@sm"
         ],
-        "description": "padding-bottom: var(--space-xs)"
+        "description": "padding-bottom: var(--space-xsm)"
     },
     "padding-bottom-sm@sm": {
         "prefix": "padding-bottom-sm@sm",
@@ -4596,28 +4596,28 @@
         "body": [
             "padding-bottom-xl@sm"
         ],
-        "description": "padding-bottom: var(--space-xl)"
+        "description": "padding-bottom: var(--space-xlg)"
     },
     "padding-bottom-xxl@sm": {
         "prefix": "padding-bottom-xxl@sm",
         "body": [
             "padding-bottom-xxl@sm"
         ],
-        "description": "padding-bottom: var(--space-xxl)"
+        "description": "padding-bottom: var(--space-xxlg)"
     },
     "padding-bottom-xxxl@sm": {
         "prefix": "padding-bottom-xxxl@sm",
         "body": [
             "padding-bottom-xxxl@sm"
         ],
-        "description": "padding-bottom: var(--space-xxxl)"
+        "description": "padding-bottom: var(--space-xxxlg)"
     },
     "padding-bottom-xxxxl@sm": {
         "prefix": "padding-bottom-xxxxl@sm",
         "body": [
             "padding-bottom-xxxxl@sm"
         ],
-        "description": "padding-bottom: var(--space-xxxxl)"
+        "description": "padding-bottom: var(--space-xxxxlg)"
     },
     "padding-left-0@sm": {
         "prefix": "padding-left-0@sm",
@@ -4631,28 +4631,28 @@
         "body": [
             "padding-left-xxxxs@sm"
         ],
-        "description": "padding-left: var(--space-xxxxs)"
+        "description": "padding-left: var(--space-xxxxsm)"
     },
     "padding-left-xxxs@sm": {
         "prefix": "padding-left-xxxs@sm",
         "body": [
             "padding-left-xxxs@sm"
         ],
-        "description": "padding-left: var(--space-xxxs)"
+        "description": "padding-left: var(--space-xxxsm)"
     },
     "padding-left-xxs@sm": {
         "prefix": "padding-left-xxs@sm",
         "body": [
             "padding-left-xxs@sm"
         ],
-        "description": "padding-left: var(--space-xxs)"
+        "description": "padding-left: var(--space-xxsm)"
     },
     "padding-left-xs@sm": {
         "prefix": "padding-left-xs@sm",
         "body": [
             "padding-left-xs@sm"
         ],
-        "description": "padding-left: var(--space-xs)"
+        "description": "padding-left: var(--space-xsm)"
     },
     "padding-left-sm@sm": {
         "prefix": "padding-left-sm@sm",
@@ -4680,28 +4680,28 @@
         "body": [
             "padding-left-xl@sm"
         ],
-        "description": "padding-left: var(--space-xl)"
+        "description": "padding-left: var(--space-xlg)"
     },
     "padding-left-xxl@sm": {
         "prefix": "padding-left-xxl@sm",
         "body": [
             "padding-left-xxl@sm"
         ],
-        "description": "padding-left: var(--space-xxl)"
+        "description": "padding-left: var(--space-xxlg)"
     },
     "padding-left-xxxl@sm": {
         "prefix": "padding-left-xxxl@sm",
         "body": [
             "padding-left-xxxl@sm"
         ],
-        "description": "padding-left: var(--space-xxxl)"
+        "description": "padding-left: var(--space-xxxlg)"
     },
     "padding-left-xxxxl@sm": {
         "prefix": "padding-left-xxxxl@sm",
         "body": [
             "padding-left-xxxxl@sm"
         ],
-        "description": "padding-left: var(--space-xxxxl)"
+        "description": "padding-left: var(--space-xxxxlg)"
     },
     "margin-0@sm": {
         "prefix": "margin-0@sm",
@@ -4715,28 +4715,28 @@
         "body": [
             "margin-xxxxsm@sm"
         ],
-        "description": "margin: var(--space-xxxxs)"
+        "description": "margin: var(--space-xxxxsm)"
     },
     "margin-xxxsm@sm": {
         "prefix": "margin-xxxsm@sm",
         "body": [
             "margin-xxxsm@sm"
         ],
-        "description": "margin: var(--space-xxxs)"
+        "description": "margin: var(--space-xxxsm)"
     },
     "margin-xxsm@sm": {
         "prefix": "margin-xxsm@sm",
         "body": [
             "margin-xxsm@sm"
         ],
-        "description": "margin: var(--space-xxs)"
+        "description": "margin: var(--space-xxsm)"
     },
     "margin-xsm@sm": {
         "prefix": "margin-xsm@sm",
         "body": [
             "margin-xsm@sm"
         ],
-        "description": "margin: var(--space-xs)"
+        "description": "margin: var(--space-xsm)"
     },
     "margin-sm@sm": {
         "prefix": "margin-sm@sm",
@@ -4764,28 +4764,28 @@
         "body": [
             "margin-xlg@sm"
         ],
-        "description": "margin: var(--space-xl)"
+        "description": "margin: var(--space-xlg)"
     },
     "margin-xxlg@sm": {
         "prefix": "margin-xxlg@sm",
         "body": [
             "margin-xxlg@sm"
         ],
-        "description": "margin: var(--space-xxl)"
+        "description": "margin: var(--space-xxlg)"
     },
     "margin-xxxlg@sm": {
         "prefix": "margin-xxxlg@sm",
         "body": [
             "margin-xxxlg@sm"
         ],
-        "description": "margin: var(--space-xxxl)"
+        "description": "margin: var(--space-xxxlg)"
     },
     "margin-xxxxlg@sm": {
         "prefix": "margin-xxxxlg@sm",
         "body": [
             "margin-xxxxlg@sm"
         ],
-        "description": "margin: var(--space-xxxxl)"
+        "description": "margin: var(--space-xxxxlg)"
     },
     "margin-top-0@sm": {
         "prefix": "margin-top-0@sm",
@@ -4799,28 +4799,28 @@
         "body": [
             "margin-top-xxxxsm@sm"
         ],
-        "description": "margin-top: var(--space-xxxxs)"
+        "description": "margin-top: var(--space-xxxxsm)"
     },
     "margin-top-xxxsm@sm": {
         "prefix": "margin-top-xxxsm@sm",
         "body": [
             "margin-top-xxxsm@sm"
         ],
-        "description": "margin-top: var(--space-xxxs)"
+        "description": "margin-top: var(--space-xxxsm)"
     },
     "margin-top-xxsm@sm": {
         "prefix": "margin-top-xxsm@sm",
         "body": [
             "margin-top-xxsm@sm"
         ],
-        "description": "margin-top: var(--space-xxs)"
+        "description": "margin-top: var(--space-xxsm)"
     },
     "margin-top-xsm@sm": {
         "prefix": "margin-top-xsm@sm",
         "body": [
             "margin-top-xsm@sm"
         ],
-        "description": "margin-top: var(--space-xs)"
+        "description": "margin-top: var(--space-xsm)"
     },
     "margin-top-sm@sm": {
         "prefix": "margin-top-sm@sm",
@@ -4848,28 +4848,28 @@
         "body": [
             "margin-top-xlg@sm"
         ],
-        "description": "margin-top: var(--space-xl)"
+        "description": "margin-top: var(--space-xlg)"
     },
     "margin-top-xxlg@sm": {
         "prefix": "margin-top-xxlg@sm",
         "body": [
             "margin-top-xxlg@sm"
         ],
-        "description": "margin-top: var(--space-xxl)"
+        "description": "margin-top: var(--space-xxlg)"
     },
     "margin-top-xxxlg@sm": {
         "prefix": "margin-top-xxxlg@sm",
         "body": [
             "margin-top-xxxlg@sm"
         ],
-        "description": "margin-top: var(--space-xxxl)"
+        "description": "margin-top: var(--space-xxxlg)"
     },
     "margin-top-xxxxlg@sm": {
         "prefix": "margin-top-xxxxlg@sm",
         "body": [
             "margin-top-xxxxlg@sm"
         ],
-        "description": "margin-top: var(--space-xxxxl)"
+        "description": "margin-top: var(--space-xxxxlg)"
     },
     "margin-right-0@sm": {
         "prefix": "margin-right-0@sm",
@@ -4883,28 +4883,28 @@
         "body": [
             "margin-right-xxxxs@sm"
         ],
-        "description": "margin-right: var(--space-xxxxs)"
+        "description": "margin-right: var(--space-xxxxsm)"
     },
     "margin-right-xxxs@sm": {
         "prefix": "margin-right-xxxs@sm",
         "body": [
             "margin-right-xxxs@sm"
         ],
-        "description": "margin-right: var(--space-xxxs)"
+        "description": "margin-right: var(--space-xxxsm)"
     },
     "margin-right-xxs@sm": {
         "prefix": "margin-right-xxs@sm",
         "body": [
             "margin-right-xxs@sm"
         ],
-        "description": "margin-right: var(--space-xxs)"
+        "description": "margin-right: var(--space-xxsm)"
     },
     "margin-right-xs@sm": {
         "prefix": "margin-right-xs@sm",
         "body": [
             "margin-right-xs@sm"
         ],
-        "description": "margin-right: var(--space-xs)"
+        "description": "margin-right: var(--space-xsm)"
     },
     "margin-right-sm@sm": {
         "prefix": "margin-right-sm@sm",
@@ -4932,28 +4932,28 @@
         "body": [
             "margin-right-xl@sm"
         ],
-        "description": "margin-right: var(--space-xl)"
+        "description": "margin-right: var(--space-xlg)"
     },
     "margin-right-xxl@sm": {
         "prefix": "margin-right-xxl@sm",
         "body": [
             "margin-right-xxl@sm"
         ],
-        "description": "margin-right: var(--space-xxl)"
+        "description": "margin-right: var(--space-xxlg)"
     },
     "margin-right-xxxl@sm": {
         "prefix": "margin-right-xxxl@sm",
         "body": [
             "margin-right-xxxl@sm"
         ],
-        "description": "margin-right: var(--space-xxxl)"
+        "description": "margin-right: var(--space-xxxlg)"
     },
     "margin-right-xxxxl@sm": {
         "prefix": "margin-right-xxxxl@sm",
         "body": [
             "margin-right-xxxxl@sm"
         ],
-        "description": "margin-right: var(--space-xxxxl)"
+        "description": "margin-right: var(--space-xxxxlg)"
     },
     "margin-bottom-0@sm": {
         "prefix": "margin-bottom-0@sm",
@@ -4967,28 +4967,28 @@
         "body": [
             "margin-bottom-xxxxs@sm"
         ],
-        "description": "margin-bottom: var(--space-xxxxs)"
+        "description": "margin-bottom: var(--space-xxxxsm)"
     },
     "margin-bottom-xxxs@sm": {
         "prefix": "margin-bottom-xxxs@sm",
         "body": [
             "margin-bottom-xxxs@sm"
         ],
-        "description": "margin-bottom: var(--space-xxxs)"
+        "description": "margin-bottom: var(--space-xxxsm)"
     },
     "margin-bottom-xxs@sm": {
         "prefix": "margin-bottom-xxs@sm",
         "body": [
             "margin-bottom-xxs@sm"
         ],
-        "description": "margin-bottom: var(--space-xxs)"
+        "description": "margin-bottom: var(--space-xxsm)"
     },
     "margin-bottom-xs@sm": {
         "prefix": "margin-bottom-xs@sm",
         "body": [
             "margin-bottom-xs@sm"
         ],
-        "description": "margin-bottom: var(--space-xs)"
+        "description": "margin-bottom: var(--space-xsm)"
     },
     "margin-bottom-sm@sm": {
         "prefix": "margin-bottom-sm@sm",
@@ -5016,28 +5016,28 @@
         "body": [
             "margin-bottom-xl@sm"
         ],
-        "description": "margin-bottom: var(--space-xl)"
+        "description": "margin-bottom: var(--space-xlg)"
     },
     "margin-bottom-xxl@sm": {
         "prefix": "margin-bottom-xxl@sm",
         "body": [
             "margin-bottom-xxl@sm"
         ],
-        "description": "margin-bottom: var(--space-xxl)"
+        "description": "margin-bottom: var(--space-xxlg)"
     },
     "margin-bottom-xxxl@sm": {
         "prefix": "margin-bottom-xxxl@sm",
         "body": [
             "margin-bottom-xxxl@sm"
         ],
-        "description": "margin-bottom: var(--space-xxxl)"
+        "description": "margin-bottom: var(--space-xxxlg)"
     },
     "margin-bottom-xxxxl@sm": {
         "prefix": "margin-bottom-xxxxl@sm",
         "body": [
             "margin-bottom-xxxxl@sm"
         ],
-        "description": "margin-bottom: var(--space-xxxxl)"
+        "description": "margin-bottom: var(--space-xxxxlg)"
     },
     "margin-left-0@sm": {
         "prefix": "margin-left-0@sm",
@@ -5051,28 +5051,28 @@
         "body": [
             "margin-left-xxxxs@sm"
         ],
-        "description": "margin-left: var(--space-xxxxs)"
+        "description": "margin-left: var(--space-xxxxsm)"
     },
     "margin-left-xxxs@sm": {
         "prefix": "margin-left-xxxs@sm",
         "body": [
             "margin-left-xxxs@sm"
         ],
-        "description": "margin-left: var(--space-xxxs)"
+        "description": "margin-left: var(--space-xxxsm)"
     },
     "margin-left-xxs@sm": {
         "prefix": "margin-left-xxs@sm",
         "body": [
             "margin-left-xxs@sm"
         ],
-        "description": "margin-left: var(--space-xxs)"
+        "description": "margin-left: var(--space-xxsm)"
     },
     "margin-left-xs@sm": {
         "prefix": "margin-left-xs@sm",
         "body": [
             "margin-left-xs@sm"
         ],
-        "description": "margin-left: var(--space-xs)"
+        "description": "margin-left: var(--space-xsm)"
     },
     "margin-left-sm@sm": {
         "prefix": "margin-left-sm@sm",
@@ -5100,28 +5100,28 @@
         "body": [
             "margin-left-xl@sm"
         ],
-        "description": "margin-left: var(--space-xl)"
+        "description": "margin-left: var(--space-xlg)"
     },
     "margin-left-xxl@sm": {
         "prefix": "margin-left-xxl@sm",
         "body": [
             "margin-left-xxl@sm"
         ],
-        "description": "margin-left: var(--space-xxl)"
+        "description": "margin-left: var(--space-xxlg)"
     },
     "margin-left-xxxl@sm": {
         "prefix": "margin-left-xxxl@sm",
         "body": [
             "margin-left-xxxl@sm"
         ],
-        "description": "margin-left: var(--space-xxxl)"
+        "description": "margin-left: var(--space-xxxlg)"
     },
     "margin-left-xxxxl@sm": {
         "prefix": "margin-left-xxxxl@sm",
         "body": [
             "margin-left-xxxxl@sm"
         ],
-        "description": "margin-left: var(--space-xxxxl);"
+        "description": "margin-left: var(--space-xxxxlg);"
     },
     "text-default@md": {
         "prefix": "text-default@md",
@@ -5156,28 +5156,28 @@
         "body": [
             "text-xlg@md"
         ],
-        "description": "font-size: var(--text-xl)"
+        "description": "font-size: var(--text-xlg)"
     },
     "text-xxlg@md": {
         "prefix": "text-xxlg@md",
         "body": [
             "text-xxlg@md"
         ],
-        "description": "font-size: var(--text-xxl)"
+        "description": "font-size: var(--text-xxlg)"
     },
     "text-xxxlg@md": {
         "prefix": "text-xxxlg@md",
         "body": [
             "text-xxxlg@md"
         ],
-        "description": "font-size: var(--text-xxxl)"
+        "description": "font-size: var(--text-xxxlg)"
     },
     "text-xxxxlg@md": {
         "prefix": "text-xxxxlg@md",
         "body": [
             "text-xxxxlg@md"
         ],
-        "description": "font-size: var(--text-xxxxl)"
+        "description": "font-size: var(--text-xxxxlg)"
     },
     "line-height-default@md": {
         "prefix": "line-height-default@md",
@@ -5919,28 +5919,28 @@
         "body": [
             "padding-xxxxsm@md"
         ],
-        "description": "padding: var(--space-xxxxs)"
+        "description": "padding: var(--space-xxxxsm)"
     },
     "padding-xxxsm@md": {
         "prefix": "padding-xxxsm@md",
         "body": [
             "padding-xxxsm@md"
         ],
-        "description": "padding: var(--space-xxxs)"
+        "description": "padding: var(--space-xxxsm)"
     },
     "padding-xxsm@md": {
         "prefix": "padding-xxsm@md",
         "body": [
             "padding-xxsm@md"
         ],
-        "description": "padding: var(--space-xxs)"
+        "description": "padding: var(--space-xxsm)"
     },
     "padding-xsm@md": {
         "prefix": "padding-xsm@md",
         "body": [
             "padding-xsm@md"
         ],
-        "description": "padding: var(--space-xs)"
+        "description": "padding: var(--space-xsm)"
     },
     "padding-sm@md": {
         "prefix": "padding-sm@md",
@@ -5968,28 +5968,28 @@
         "body": [
             "padding-xlg@md"
         ],
-        "description": "padding: var(--space-xl)"
+        "description": "padding: var(--space-xlg)"
     },
     "padding-xxlg@md": {
         "prefix": "padding-xxlg@md",
         "body": [
             "padding-xxlg@md"
         ],
-        "description": "padding: var(--space-xxl)"
+        "description": "padding: var(--space-xxlg)"
     },
     "padding-xxxlg@md": {
         "prefix": "padding-xxxlg@md",
         "body": [
             "padding-xxxlg@md"
         ],
-        "description": "padding: var(--space-xxxl)"
+        "description": "padding: var(--space-xxxlg)"
     },
     "padding-xxxxlg@md": {
         "prefix": "padding-xxxxlg@md",
         "body": [
             "padding-xxxxlg@md"
         ],
-        "description": "padding: var(--space-xxxxl)"
+        "description": "padding: var(--space-xxxxlg)"
     },
     "padding-top-0@md": {
         "prefix": "padding-top-0@md",
@@ -6003,28 +6003,28 @@
         "body": [
             "padding-top-xxxxsm@md"
         ],
-        "description": "padding-top: var(--space-xxxxs)"
+        "description": "padding-top: var(--space-xxxxsm)"
     },
     "padding-top-xxxsm@md": {
         "prefix": "padding-top-xxxsm@md",
         "body": [
             "padding-top-xxxsm@md"
         ],
-        "description": "padding-top: var(--space-xxxs)"
+        "description": "padding-top: var(--space-xxxsm)"
     },
     "padding-top-xxsm@md": {
         "prefix": "padding-top-xxsm@md",
         "body": [
             "padding-top-xxsm@md"
         ],
-        "description": "padding-top: var(--space-xxs)"
+        "description": "padding-top: var(--space-xxsm)"
     },
     "padding-top-xsm@md": {
         "prefix": "padding-top-xsm@md",
         "body": [
             "padding-top-xsm@md"
         ],
-        "description": "padding-top: var(--space-xs)"
+        "description": "padding-top: var(--space-xsm)"
     },
     "padding-top-sm@md": {
         "prefix": "padding-top-sm@md",
@@ -6052,28 +6052,28 @@
         "body": [
             "padding-top-xlg@md"
         ],
-        "description": "padding-top: var(--space-xl)"
+        "description": "padding-top: var(--space-xlg)"
     },
     "padding-top-xxlg@md": {
         "prefix": "padding-top-xxlg@md",
         "body": [
             "padding-top-xxlg@md"
         ],
-        "description": "padding-top: var(--space-xxl)"
+        "description": "padding-top: var(--space-xxlg)"
     },
     "padding-top-xxxlg@md": {
         "prefix": "padding-top-xxxlg@md",
         "body": [
             "padding-top-xxxlg@md"
         ],
-        "description": "padding-top: var(--space-xxxl)"
+        "description": "padding-top: var(--space-xxxlg)"
     },
     "padding-top-xxxxlg@md": {
         "prefix": "padding-top-xxxxlg@md",
         "body": [
             "padding-top-xxxxlg@md"
         ],
-        "description": "padding-top: var(--space-xxxxl)"
+        "description": "padding-top: var(--space-xxxxlg)"
     },
     "padding-right-0@md": {
         "prefix": "padding-right-0@md",
@@ -6087,28 +6087,28 @@
         "body": [
             "padding-right-xxxxs@md"
         ],
-        "description": "padding-right: var(--space-xxxxs)"
+        "description": "padding-right: var(--space-xxxxsm)"
     },
     "padding-right-xxxs@md": {
         "prefix": "padding-right-xxxs@md",
         "body": [
             "padding-right-xxxs@md"
         ],
-        "description": "padding-right: var(--space-xxxs)"
+        "description": "padding-right: var(--space-xxxsm)"
     },
     "padding-right-xxs@md": {
         "prefix": "padding-right-xxs@md",
         "body": [
             "padding-right-xxs@md"
         ],
-        "description": "padding-right: var(--space-xxs)"
+        "description": "padding-right: var(--space-xxsm)"
     },
     "padding-right-xs@md": {
         "prefix": "padding-right-xs@md",
         "body": [
             "padding-right-xs@md"
         ],
-        "description": "padding-right: var(--space-xs)"
+        "description": "padding-right: var(--space-xsm)"
     },
     "padding-right-sm@md": {
         "prefix": "padding-right-sm@md",
@@ -6136,28 +6136,28 @@
         "body": [
             "padding-right-xl@md"
         ],
-        "description": "padding-right: var(--space-xl)"
+        "description": "padding-right: var(--space-xlg)"
     },
     "padding-right-xxl@md": {
         "prefix": "padding-right-xxl@md",
         "body": [
             "padding-right-xxl@md"
         ],
-        "description": "padding-right: var(--space-xxl)"
+        "description": "padding-right: var(--space-xxlg)"
     },
     "padding-right-xxxl@md": {
         "prefix": "padding-right-xxxl@md",
         "body": [
             "padding-right-xxxl@md"
         ],
-        "description": "padding-right: var(--space-xxxl)"
+        "description": "padding-right: var(--space-xxxlg)"
     },
     "padding-right-xxxxl@md": {
         "prefix": "padding-right-xxxxl@md",
         "body": [
             "padding-right-xxxxl@md"
         ],
-        "description": "padding-right: var(--space-xxxxl)"
+        "description": "padding-right: var(--space-xxxxlg)"
     },
     "padding-bottom-0@md": {
         "prefix": "padding-bottom-0@md",
@@ -6171,28 +6171,28 @@
         "body": [
             "padding-bottom-xxxxs@md"
         ],
-        "description": "padding-bottom: var(--space-xxxxs)"
+        "description": "padding-bottom: var(--space-xxxxsm)"
     },
     "padding-bottom-xxxs@md": {
         "prefix": "padding-bottom-xxxs@md",
         "body": [
             "padding-bottom-xxxs@md"
         ],
-        "description": "padding-bottom: var(--space-xxxs)"
+        "description": "padding-bottom: var(--space-xxxsm)"
     },
     "padding-bottom-xxs@md": {
         "prefix": "padding-bottom-xxs@md",
         "body": [
             "padding-bottom-xxs@md"
         ],
-        "description": "padding-bottom: var(--space-xxs)"
+        "description": "padding-bottom: var(--space-xxsm)"
     },
     "padding-bottom-xs@md": {
         "prefix": "padding-bottom-xs@md",
         "body": [
             "padding-bottom-xs@md"
         ],
-        "description": "padding-bottom: var(--space-xs)"
+        "description": "padding-bottom: var(--space-xsm)"
     },
     "padding-bottom-sm@md": {
         "prefix": "padding-bottom-sm@md",
@@ -6220,28 +6220,28 @@
         "body": [
             "padding-bottom-xl@md"
         ],
-        "description": "padding-bottom: var(--space-xl)"
+        "description": "padding-bottom: var(--space-xlg)"
     },
     "padding-bottom-xxl@md": {
         "prefix": "padding-bottom-xxl@md",
         "body": [
             "padding-bottom-xxl@md"
         ],
-        "description": "padding-bottom: var(--space-xxl)"
+        "description": "padding-bottom: var(--space-xxlg)"
     },
     "padding-bottom-xxxl@md": {
         "prefix": "padding-bottom-xxxl@md",
         "body": [
             "padding-bottom-xxxl@md"
         ],
-        "description": "padding-bottom: var(--space-xxxl)"
+        "description": "padding-bottom: var(--space-xxxlg)"
     },
     "padding-bottom-xxxxl@md": {
         "prefix": "padding-bottom-xxxxl@md",
         "body": [
             "padding-bottom-xxxxl@md"
         ],
-        "description": "padding-bottom: var(--space-xxxxl)"
+        "description": "padding-bottom: var(--space-xxxxlg)"
     },
     "padding-left-0@md": {
         "prefix": "padding-left-0@md",
@@ -6255,28 +6255,28 @@
         "body": [
             "padding-left-xxxxs@md"
         ],
-        "description": "padding-left: var(--space-xxxxs)"
+        "description": "padding-left: var(--space-xxxxsm)"
     },
     "padding-left-xxxs@md": {
         "prefix": "padding-left-xxxs@md",
         "body": [
             "padding-left-xxxs@md"
         ],
-        "description": "padding-left: var(--space-xxxs)"
+        "description": "padding-left: var(--space-xxxsm)"
     },
     "padding-left-xxs@md": {
         "prefix": "padding-left-xxs@md",
         "body": [
             "padding-left-xxs@md"
         ],
-        "description": "padding-left: var(--space-xxs)"
+        "description": "padding-left: var(--space-xxsm)"
     },
     "padding-left-xs@md": {
         "prefix": "padding-left-xs@md",
         "body": [
             "padding-left-xs@md"
         ],
-        "description": "padding-left: var(--space-xs)"
+        "description": "padding-left: var(--space-xsm)"
     },
     "padding-left-sm@md": {
         "prefix": "padding-left-sm@md",
@@ -6304,28 +6304,28 @@
         "body": [
             "padding-left-xl@md"
         ],
-        "description": "padding-left: var(--space-xl)"
+        "description": "padding-left: var(--space-xlg)"
     },
     "padding-left-xxl@md": {
         "prefix": "padding-left-xxl@md",
         "body": [
             "padding-left-xxl@md"
         ],
-        "description": "padding-left: var(--space-xxl)"
+        "description": "padding-left: var(--space-xxlg)"
     },
     "padding-left-xxxl@md": {
         "prefix": "padding-left-xxxl@md",
         "body": [
             "padding-left-xxxl@md"
         ],
-        "description": "padding-left: var(--space-xxxl)"
+        "description": "padding-left: var(--space-xxxlg)"
     },
     "padding-left-xxxxl@md": {
         "prefix": "padding-left-xxxxl@md",
         "body": [
             "padding-left-xxxxl@md"
         ],
-        "description": "padding-left: var(--space-xxxxl)"
+        "description": "padding-left: var(--space-xxxxlg)"
     },
     "margin-0@md": {
         "prefix": "margin-0@md",
@@ -6339,28 +6339,28 @@
         "body": [
             "margin-xxxxsm@md"
         ],
-        "description": "margin: var(--space-xxxxs)"
+        "description": "margin: var(--space-xxxxsm)"
     },
     "margin-xxxsm@md": {
         "prefix": "margin-xxxsm@md",
         "body": [
             "margin-xxxsm@md"
         ],
-        "description": "margin: var(--space-xxxs)"
+        "description": "margin: var(--space-xxxsm)"
     },
     "margin-xxsm@md": {
         "prefix": "margin-xxsm@md",
         "body": [
             "margin-xxsm@md"
         ],
-        "description": "margin: var(--space-xxs)"
+        "description": "margin: var(--space-xxsm)"
     },
     "margin-xsm@md": {
         "prefix": "margin-xsm@md",
         "body": [
             "margin-xsm@md"
         ],
-        "description": "margin: var(--space-xs)"
+        "description": "margin: var(--space-xsm)"
     },
     "margin-sm@md": {
         "prefix": "margin-sm@md",
@@ -6388,28 +6388,28 @@
         "body": [
             "margin-xlg@md"
         ],
-        "description": "margin: var(--space-xl)"
+        "description": "margin: var(--space-xlg)"
     },
     "margin-xxlg@md": {
         "prefix": "margin-xxlg@md",
         "body": [
             "margin-xxlg@md"
         ],
-        "description": "margin: var(--space-xxl)"
+        "description": "margin: var(--space-xxlg)"
     },
     "margin-xxxlg@md": {
         "prefix": "margin-xxxlg@md",
         "body": [
             "margin-xxxlg@md"
         ],
-        "description": "margin: var(--space-xxxl)"
+        "description": "margin: var(--space-xxxlg)"
     },
     "margin-xxxxlg@md": {
         "prefix": "margin-xxxxlg@md",
         "body": [
             "margin-xxxxlg@md"
         ],
-        "description": "margin: var(--space-xxxxl)"
+        "description": "margin: var(--space-xxxxlg)"
     },
     "margin-top-0@md": {
         "prefix": "margin-top-0@md",
@@ -6423,28 +6423,28 @@
         "body": [
             "margin-top-xxxxsm@md"
         ],
-        "description": "margin-top: var(--space-xxxxs)"
+        "description": "margin-top: var(--space-xxxxsm)"
     },
     "margin-top-xxxsm@md": {
         "prefix": "margin-top-xxxsm@md",
         "body": [
             "margin-top-xxxsm@md"
         ],
-        "description": "margin-top: var(--space-xxxs)"
+        "description": "margin-top: var(--space-xxxsm)"
     },
     "margin-top-xxsm@md": {
         "prefix": "margin-top-xxsm@md",
         "body": [
             "margin-top-xxsm@md"
         ],
-        "description": "margin-top: var(--space-xxs)"
+        "description": "margin-top: var(--space-xxsm)"
     },
     "margin-top-xsm@md": {
         "prefix": "margin-top-xsm@md",
         "body": [
             "margin-top-xsm@md"
         ],
-        "description": "margin-top: var(--space-xs)"
+        "description": "margin-top: var(--space-xsm)"
     },
     "margin-top-sm@md": {
         "prefix": "margin-top-sm@md",
@@ -6472,28 +6472,28 @@
         "body": [
             "margin-top-xlg@md"
         ],
-        "description": "margin-top: var(--space-xl)"
+        "description": "margin-top: var(--space-xlg)"
     },
     "margin-top-xxlg@md": {
         "prefix": "margin-top-xxlg@md",
         "body": [
             "margin-top-xxlg@md"
         ],
-        "description": "margin-top: var(--space-xxl)"
+        "description": "margin-top: var(--space-xxlg)"
     },
     "margin-top-xxxlg@md": {
         "prefix": "margin-top-xxxlg@md",
         "body": [
             "margin-top-xxxlg@md"
         ],
-        "description": "margin-top: var(--space-xxxl)"
+        "description": "margin-top: var(--space-xxxlg)"
     },
     "margin-top-xxxxlg@md": {
         "prefix": "margin-top-xxxxlg@md",
         "body": [
             "margin-top-xxxxlg@md"
         ],
-        "description": "margin-top: var(--space-xxxxl)"
+        "description": "margin-top: var(--space-xxxxlg)"
     },
     "margin-right-0@md": {
         "prefix": "margin-right-0@md",
@@ -6507,28 +6507,28 @@
         "body": [
             "margin-right-xxxxs@md"
         ],
-        "description": "margin-right: var(--space-xxxxs)"
+        "description": "margin-right: var(--space-xxxxsm)"
     },
     "margin-right-xxxs@md": {
         "prefix": "margin-right-xxxs@md",
         "body": [
             "margin-right-xxxs@md"
         ],
-        "description": "margin-right: var(--space-xxxs)"
+        "description": "margin-right: var(--space-xxxsm)"
     },
     "margin-right-xxs@md": {
         "prefix": "margin-right-xxs@md",
         "body": [
             "margin-right-xxs@md"
         ],
-        "description": "margin-right: var(--space-xxs)"
+        "description": "margin-right: var(--space-xxsm)"
     },
     "margin-right-xs@md": {
         "prefix": "margin-right-xs@md",
         "body": [
             "margin-right-xs@md"
         ],
-        "description": "margin-right: var(--space-xs)"
+        "description": "margin-right: var(--space-xsm)"
     },
     "margin-right-sm@md": {
         "prefix": "margin-right-sm@md",
@@ -6556,28 +6556,28 @@
         "body": [
             "margin-right-xl@md"
         ],
-        "description": "margin-right: var(--space-xl)"
+        "description": "margin-right: var(--space-xlg)"
     },
     "margin-right-xxl@md": {
         "prefix": "margin-right-xxl@md",
         "body": [
             "margin-right-xxl@md"
         ],
-        "description": "margin-right: var(--space-xxl)"
+        "description": "margin-right: var(--space-xxlg)"
     },
     "margin-right-xxxl@md": {
         "prefix": "margin-right-xxxl@md",
         "body": [
             "margin-right-xxxl@md"
         ],
-        "description": "margin-right: var(--space-xxxl)"
+        "description": "margin-right: var(--space-xxxlg)"
     },
     "margin-right-xxxxl@md": {
         "prefix": "margin-right-xxxxl@md",
         "body": [
             "margin-right-xxxxl@md"
         ],
-        "description": "margin-right: var(--space-xxxxl)"
+        "description": "margin-right: var(--space-xxxxlg)"
     },
     "margin-bottom-0@md": {
         "prefix": "margin-bottom-0@md",
@@ -6591,28 +6591,28 @@
         "body": [
             "margin-bottom-xxxxs@md"
         ],
-        "description": "margin-bottom: var(--space-xxxxs)"
+        "description": "margin-bottom: var(--space-xxxxsm)"
     },
     "margin-bottom-xxxs@md": {
         "prefix": "margin-bottom-xxxs@md",
         "body": [
             "margin-bottom-xxxs@md"
         ],
-        "description": "margin-bottom: var(--space-xxxs)"
+        "description": "margin-bottom: var(--space-xxxsm)"
     },
     "margin-bottom-xxs@md": {
         "prefix": "margin-bottom-xxs@md",
         "body": [
             "margin-bottom-xxs@md"
         ],
-        "description": "margin-bottom: var(--space-xxs)"
+        "description": "margin-bottom: var(--space-xxsm)"
     },
     "margin-bottom-xs@md": {
         "prefix": "margin-bottom-xs@md",
         "body": [
             "margin-bottom-xs@md"
         ],
-        "description": "margin-bottom: var(--space-xs)"
+        "description": "margin-bottom: var(--space-xsm)"
     },
     "margin-bottom-sm@md": {
         "prefix": "margin-bottom-sm@md",
@@ -6640,28 +6640,28 @@
         "body": [
             "margin-bottom-xl@md"
         ],
-        "description": "margin-bottom: var(--space-xl)"
+        "description": "margin-bottom: var(--space-xlg)"
     },
     "margin-bottom-xxl@md": {
         "prefix": "margin-bottom-xxl@md",
         "body": [
             "margin-bottom-xxl@md"
         ],
-        "description": "margin-bottom: var(--space-xxl)"
+        "description": "margin-bottom: var(--space-xxlg)"
     },
     "margin-bottom-xxxl@md": {
         "prefix": "margin-bottom-xxxl@md",
         "body": [
             "margin-bottom-xxxl@md"
         ],
-        "description": "margin-bottom: var(--space-xxxl)"
+        "description": "margin-bottom: var(--space-xxxlg)"
     },
     "margin-bottom-xxxxl@md": {
         "prefix": "margin-bottom-xxxxl@md",
         "body": [
             "margin-bottom-xxxxl@md"
         ],
-        "description": "margin-bottom: var(--space-xxxxl)"
+        "description": "margin-bottom: var(--space-xxxxlg)"
     },
     "margin-left-0@md": {
         "prefix": "margin-left-0@md",
@@ -6675,28 +6675,28 @@
         "body": [
             "margin-left-xxxxs@md"
         ],
-        "description": "margin-left: var(--space-xxxxs)"
+        "description": "margin-left: var(--space-xxxxsm)"
     },
     "margin-left-xxxs@md": {
         "prefix": "margin-left-xxxs@md",
         "body": [
             "margin-left-xxxs@md"
         ],
-        "description": "margin-left: var(--space-xxxs)"
+        "description": "margin-left: var(--space-xxxsm)"
     },
     "margin-left-xxs@md": {
         "prefix": "margin-left-xxs@md",
         "body": [
             "margin-left-xxs@md"
         ],
-        "description": "margin-left: var(--space-xxs)"
+        "description": "margin-left: var(--space-xxsm)"
     },
     "margin-left-xs@md": {
         "prefix": "margin-left-xs@md",
         "body": [
             "margin-left-xs@md"
         ],
-        "description": "margin-left: var(--space-xs)"
+        "description": "margin-left: var(--space-xsm)"
     },
     "margin-left-sm@md": {
         "prefix": "margin-left-sm@md",
@@ -6724,28 +6724,28 @@
         "body": [
             "margin-left-xl@md"
         ],
-        "description": "margin-left: var(--space-xl)"
+        "description": "margin-left: var(--space-xlg)"
     },
     "margin-left-xxl@md": {
         "prefix": "margin-left-xxl@md",
         "body": [
             "margin-left-xxl@md"
         ],
-        "description": "margin-left: var(--space-xxl)"
+        "description": "margin-left: var(--space-xxlg)"
     },
     "margin-left-xxxl@md": {
         "prefix": "margin-left-xxxl@md",
         "body": [
             "margin-left-xxxl@md"
         ],
-        "description": "margin-left: var(--space-xxxl)"
+        "description": "margin-left: var(--space-xxxlg)"
     },
     "margin-left-xxxxl@md": {
         "prefix": "margin-left-xxxxl@md",
         "body": [
             "margin-left-xxxxl@md"
         ],
-        "description": "margin-left: var(--space-xxxxl);"
+        "description": "margin-left: var(--space-xxxxlg);"
     },
     "text-default@lg": {
         "prefix": "text-default@lg",
@@ -6780,28 +6780,28 @@
         "body": [
             "text-xlg@lg"
         ],
-        "description": "font-size: var(--text-xl)"
+        "description": "font-size: var(--text-xlg)"
     },
     "text-xxlg@lg": {
         "prefix": "text-xxlg@lg",
         "body": [
             "text-xxlg@lg"
         ],
-        "description": "font-size: var(--text-xxl)"
+        "description": "font-size: var(--text-xxlg)"
     },
     "text-xxxlg@lg": {
         "prefix": "text-xxxlg@lg",
         "body": [
             "text-xxxlg@lg"
         ],
-        "description": "font-size: var(--text-xxxl)"
+        "description": "font-size: var(--text-xxxlg)"
     },
     "text-xxxxlg@lg": {
         "prefix": "text-xxxxlg@lg",
         "body": [
             "text-xxxxlg@lg"
         ],
-        "description": "font-size: var(--text-xxxxl)"
+        "description": "font-size: var(--text-xxxxlg)"
     },
     "line-height-default@lg": {
         "prefix": "line-height-default@lg",
@@ -7543,28 +7543,28 @@
         "body": [
             "padding-xxxxsm@lg"
         ],
-        "description": "padding: var(--space-xxxxs)"
+        "description": "padding: var(--space-xxxxsm)"
     },
     "padding-xxxsm@lg": {
         "prefix": "padding-xxxsm@lg",
         "body": [
             "padding-xxxsm@lg"
         ],
-        "description": "padding: var(--space-xxxs)"
+        "description": "padding: var(--space-xxxsm)"
     },
     "padding-xxsm@lg": {
         "prefix": "padding-xxsm@lg",
         "body": [
             "padding-xxsm@lg"
         ],
-        "description": "padding: var(--space-xxs)"
+        "description": "padding: var(--space-xxsm)"
     },
     "padding-xsm@lg": {
         "prefix": "padding-xsm@lg",
         "body": [
             "padding-xsm@lg"
         ],
-        "description": "padding: var(--space-xs)"
+        "description": "padding: var(--space-xsm)"
     },
     "padding-sm@lg": {
         "prefix": "padding-sm@lg",
@@ -7592,28 +7592,28 @@
         "body": [
             "padding-xlg@lg"
         ],
-        "description": "padding: var(--space-xl)"
+        "description": "padding: var(--space-xlg)"
     },
     "padding-xxlg@lg": {
         "prefix": "padding-xxlg@lg",
         "body": [
             "padding-xxlg@lg"
         ],
-        "description": "padding: var(--space-xxl)"
+        "description": "padding: var(--space-xxlg)"
     },
     "padding-xxxlg@lg": {
         "prefix": "padding-xxxlg@lg",
         "body": [
             "padding-xxxlg@lg"
         ],
-        "description": "padding: var(--space-xxxl)"
+        "description": "padding: var(--space-xxxlg)"
     },
     "padding-xxxxlg@lg": {
         "prefix": "padding-xxxxlg@lg",
         "body": [
             "padding-xxxxlg@lg"
         ],
-        "description": "padding: var(--space-xxxxl)"
+        "description": "padding: var(--space-xxxxlg)"
     },
     "padding-top-0@lg": {
         "prefix": "padding-top-0@lg",
@@ -7627,28 +7627,28 @@
         "body": [
             "padding-top-xxxxsm@lg"
         ],
-        "description": "padding-top: var(--space-xxxxs)"
+        "description": "padding-top: var(--space-xxxxsm)"
     },
     "padding-top-xxxsm@lg": {
         "prefix": "padding-top-xxxsm@lg",
         "body": [
             "padding-top-xxxsm@lg"
         ],
-        "description": "padding-top: var(--space-xxxs)"
+        "description": "padding-top: var(--space-xxxsm)"
     },
     "padding-top-xxsm@lg": {
         "prefix": "padding-top-xxsm@lg",
         "body": [
             "padding-top-xxsm@lg"
         ],
-        "description": "padding-top: var(--space-xxs)"
+        "description": "padding-top: var(--space-xxsm)"
     },
     "padding-top-xsm@lg": {
         "prefix": "padding-top-xsm@lg",
         "body": [
             "padding-top-xsm@lg"
         ],
-        "description": "padding-top: var(--space-xs)"
+        "description": "padding-top: var(--space-xsm)"
     },
     "padding-top-sm@lg": {
         "prefix": "padding-top-sm@lg",
@@ -7676,28 +7676,28 @@
         "body": [
             "padding-top-xlg@lg"
         ],
-        "description": "padding-top: var(--space-xl)"
+        "description": "padding-top: var(--space-xlg)"
     },
     "padding-top-xxlg@lg": {
         "prefix": "padding-top-xxlg@lg",
         "body": [
             "padding-top-xxlg@lg"
         ],
-        "description": "padding-top: var(--space-xxl)"
+        "description": "padding-top: var(--space-xxlg)"
     },
     "padding-top-xxxlg@lg": {
         "prefix": "padding-top-xxxlg@lg",
         "body": [
             "padding-top-xxxlg@lg"
         ],
-        "description": "padding-top: var(--space-xxxl)"
+        "description": "padding-top: var(--space-xxxlg)"
     },
     "padding-top-xxxxlg@lg": {
         "prefix": "padding-top-xxxxlg@lg",
         "body": [
             "padding-top-xxxxlg@lg"
         ],
-        "description": "padding-top: var(--space-xxxxl)"
+        "description": "padding-top: var(--space-xxxxlg)"
     },
     "padding-right-0@lg": {
         "prefix": "padding-right-0@lg",
@@ -7711,28 +7711,28 @@
         "body": [
             "padding-right-xxxxs@lg"
         ],
-        "description": "padding-right: var(--space-xxxxs)"
+        "description": "padding-right: var(--space-xxxxsm)"
     },
     "padding-right-xxxs@lg": {
         "prefix": "padding-right-xxxs@lg",
         "body": [
             "padding-right-xxxs@lg"
         ],
-        "description": "padding-right: var(--space-xxxs)"
+        "description": "padding-right: var(--space-xxxsm)"
     },
     "padding-right-xxs@lg": {
         "prefix": "padding-right-xxs@lg",
         "body": [
             "padding-right-xxs@lg"
         ],
-        "description": "padding-right: var(--space-xxs)"
+        "description": "padding-right: var(--space-xxsm)"
     },
     "padding-right-xs@lg": {
         "prefix": "padding-right-xs@lg",
         "body": [
             "padding-right-xs@lg"
         ],
-        "description": "padding-right: var(--space-xs)"
+        "description": "padding-right: var(--space-xsm)"
     },
     "padding-right-sm@lg": {
         "prefix": "padding-right-sm@lg",
@@ -7760,28 +7760,28 @@
         "body": [
             "padding-right-xl@lg"
         ],
-        "description": "padding-right: var(--space-xl)"
+        "description": "padding-right: var(--space-xlg)"
     },
     "padding-right-xxl@lg": {
         "prefix": "padding-right-xxl@lg",
         "body": [
             "padding-right-xxl@lg"
         ],
-        "description": "padding-right: var(--space-xxl)"
+        "description": "padding-right: var(--space-xxlg)"
     },
     "padding-right-xxxl@lg": {
         "prefix": "padding-right-xxxl@lg",
         "body": [
             "padding-right-xxxl@lg"
         ],
-        "description": "padding-right: var(--space-xxxl)"
+        "description": "padding-right: var(--space-xxxlg)"
     },
     "padding-right-xxxxl@lg": {
         "prefix": "padding-right-xxxxl@lg",
         "body": [
             "padding-right-xxxxl@lg"
         ],
-        "description": "padding-right: var(--space-xxxxl)"
+        "description": "padding-right: var(--space-xxxxlg)"
     },
     "padding-bottom-0@lg": {
         "prefix": "padding-bottom-0@lg",
@@ -7795,28 +7795,28 @@
         "body": [
             "padding-bottom-xxxxs@lg"
         ],
-        "description": "padding-bottom: var(--space-xxxxs)"
+        "description": "padding-bottom: var(--space-xxxxsm)"
     },
     "padding-bottom-xxxs@lg": {
         "prefix": "padding-bottom-xxxs@lg",
         "body": [
             "padding-bottom-xxxs@lg"
         ],
-        "description": "padding-bottom: var(--space-xxxs)"
+        "description": "padding-bottom: var(--space-xxxsm)"
     },
     "padding-bottom-xxs@lg": {
         "prefix": "padding-bottom-xxs@lg",
         "body": [
             "padding-bottom-xxs@lg"
         ],
-        "description": "padding-bottom: var(--space-xxs)"
+        "description": "padding-bottom: var(--space-xxsm)"
     },
     "padding-bottom-xs@lg": {
         "prefix": "padding-bottom-xs@lg",
         "body": [
             "padding-bottom-xs@lg"
         ],
-        "description": "padding-bottom: var(--space-xs)"
+        "description": "padding-bottom: var(--space-xsm)"
     },
     "padding-bottom-sm@lg": {
         "prefix": "padding-bottom-sm@lg",
@@ -7844,28 +7844,28 @@
         "body": [
             "padding-bottom-xl@lg"
         ],
-        "description": "padding-bottom: var(--space-xl)"
+        "description": "padding-bottom: var(--space-xlg)"
     },
     "padding-bottom-xxl@lg": {
         "prefix": "padding-bottom-xxl@lg",
         "body": [
             "padding-bottom-xxl@lg"
         ],
-        "description": "padding-bottom: var(--space-xxl)"
+        "description": "padding-bottom: var(--space-xxlg)"
     },
     "padding-bottom-xxxl@lg": {
         "prefix": "padding-bottom-xxxl@lg",
         "body": [
             "padding-bottom-xxxl@lg"
         ],
-        "description": "padding-bottom: var(--space-xxxl)"
+        "description": "padding-bottom: var(--space-xxxlg)"
     },
     "padding-bottom-xxxxl@lg": {
         "prefix": "padding-bottom-xxxxl@lg",
         "body": [
             "padding-bottom-xxxxl@lg"
         ],
-        "description": "padding-bottom: var(--space-xxxxl)"
+        "description": "padding-bottom: var(--space-xxxxlg)"
     },
     "padding-left-0@lg": {
         "prefix": "padding-left-0@lg",
@@ -7879,28 +7879,28 @@
         "body": [
             "padding-left-xxxxs@lg"
         ],
-        "description": "padding-left: var(--space-xxxxs)"
+        "description": "padding-left: var(--space-xxxxsm)"
     },
     "padding-left-xxxs@lg": {
         "prefix": "padding-left-xxxs@lg",
         "body": [
             "padding-left-xxxs@lg"
         ],
-        "description": "padding-left: var(--space-xxxs)"
+        "description": "padding-left: var(--space-xxxsm)"
     },
     "padding-left-xxs@lg": {
         "prefix": "padding-left-xxs@lg",
         "body": [
             "padding-left-xxs@lg"
         ],
-        "description": "padding-left: var(--space-xxs)"
+        "description": "padding-left: var(--space-xxsm)"
     },
     "padding-left-xs@lg": {
         "prefix": "padding-left-xs@lg",
         "body": [
             "padding-left-xs@lg"
         ],
-        "description": "padding-left: var(--space-xs)"
+        "description": "padding-left: var(--space-xsm)"
     },
     "padding-left-sm@lg": {
         "prefix": "padding-left-sm@lg",
@@ -7928,28 +7928,28 @@
         "body": [
             "padding-left-xl@lg"
         ],
-        "description": "padding-left: var(--space-xl)"
+        "description": "padding-left: var(--space-xlg)"
     },
     "padding-left-xxl@lg": {
         "prefix": "padding-left-xxl@lg",
         "body": [
             "padding-left-xxl@lg"
         ],
-        "description": "padding-left: var(--space-xxl)"
+        "description": "padding-left: var(--space-xxlg)"
     },
     "padding-left-xxxl@lg": {
         "prefix": "padding-left-xxxl@lg",
         "body": [
             "padding-left-xxxl@lg"
         ],
-        "description": "padding-left: var(--space-xxxl)"
+        "description": "padding-left: var(--space-xxxlg)"
     },
     "padding-left-xxxxl@lg": {
         "prefix": "padding-left-xxxxl@lg",
         "body": [
             "padding-left-xxxxl@lg"
         ],
-        "description": "padding-left: var(--space-xxxxl)"
+        "description": "padding-left: var(--space-xxxxlg)"
     },
     "margin-0@lg": {
         "prefix": "margin-0@lg",
@@ -7963,28 +7963,28 @@
         "body": [
             "margin-xxxxsm@lg"
         ],
-        "description": "margin: var(--space-xxxxs)"
+        "description": "margin: var(--space-xxxxsm)"
     },
     "margin-xxxsm@lg": {
         "prefix": "margin-xxxsm@lg",
         "body": [
             "margin-xxxsm@lg"
         ],
-        "description": "margin: var(--space-xxxs)"
+        "description": "margin: var(--space-xxxsm)"
     },
     "margin-xxsm@lg": {
         "prefix": "margin-xxsm@lg",
         "body": [
             "margin-xxsm@lg"
         ],
-        "description": "margin: var(--space-xxs)"
+        "description": "margin: var(--space-xxsm)"
     },
     "margin-xsm@lg": {
         "prefix": "margin-xsm@lg",
         "body": [
             "margin-xsm@lg"
         ],
-        "description": "margin: var(--space-xs)"
+        "description": "margin: var(--space-xsm)"
     },
     "margin-sm@lg": {
         "prefix": "margin-sm@lg",
@@ -8012,28 +8012,28 @@
         "body": [
             "margin-xlg@lg"
         ],
-        "description": "margin: var(--space-xl)"
+        "description": "margin: var(--space-xlg)"
     },
     "margin-xxlg@lg": {
         "prefix": "margin-xxlg@lg",
         "body": [
             "margin-xxlg@lg"
         ],
-        "description": "margin: var(--space-xxl)"
+        "description": "margin: var(--space-xxlg)"
     },
     "margin-xxxlg@lg": {
         "prefix": "margin-xxxlg@lg",
         "body": [
             "margin-xxxlg@lg"
         ],
-        "description": "margin: var(--space-xxxl)"
+        "description": "margin: var(--space-xxxlg)"
     },
     "margin-xxxxlg@lg": {
         "prefix": "margin-xxxxlg@lg",
         "body": [
             "margin-xxxxlg@lg"
         ],
-        "description": "margin: var(--space-xxxxl)"
+        "description": "margin: var(--space-xxxxlg)"
     },
     "margin-top-0@lg": {
         "prefix": "margin-top-0@lg",
@@ -8047,28 +8047,28 @@
         "body": [
             "margin-top-xxxxsm@lg"
         ],
-        "description": "margin-top: var(--space-xxxxs)"
+        "description": "margin-top: var(--space-xxxxsm)"
     },
     "margin-top-xxxsm@lg": {
         "prefix": "margin-top-xxxsm@lg",
         "body": [
             "margin-top-xxxsm@lg"
         ],
-        "description": "margin-top: var(--space-xxxs)"
+        "description": "margin-top: var(--space-xxxsm)"
     },
     "margin-top-xxsm@lg": {
         "prefix": "margin-top-xxsm@lg",
         "body": [
             "margin-top-xxsm@lg"
         ],
-        "description": "margin-top: var(--space-xxs)"
+        "description": "margin-top: var(--space-xxsm)"
     },
     "margin-top-xsm@lg": {
         "prefix": "margin-top-xsm@lg",
         "body": [
             "margin-top-xsm@lg"
         ],
-        "description": "margin-top: var(--space-xs)"
+        "description": "margin-top: var(--space-xsm)"
     },
     "margin-top-sm@lg": {
         "prefix": "margin-top-sm@lg",
@@ -8096,28 +8096,28 @@
         "body": [
             "margin-top-xlg@lg"
         ],
-        "description": "margin-top: var(--space-xl)"
+        "description": "margin-top: var(--space-xlg)"
     },
     "margin-top-xxlg@lg": {
         "prefix": "margin-top-xxlg@lg",
         "body": [
             "margin-top-xxlg@lg"
         ],
-        "description": "margin-top: var(--space-xxl)"
+        "description": "margin-top: var(--space-xxlg)"
     },
     "margin-top-xxxlg@lg": {
         "prefix": "margin-top-xxxlg@lg",
         "body": [
             "margin-top-xxxlg@lg"
         ],
-        "description": "margin-top: var(--space-xxxl)"
+        "description": "margin-top: var(--space-xxxlg)"
     },
     "margin-top-xxxxlg@lg": {
         "prefix": "margin-top-xxxxlg@lg",
         "body": [
             "margin-top-xxxxlg@lg"
         ],
-        "description": "margin-top: var(--space-xxxxl)"
+        "description": "margin-top: var(--space-xxxxlg)"
     },
     "margin-right-0@lg": {
         "prefix": "margin-right-0@lg",
@@ -8131,28 +8131,28 @@
         "body": [
             "margin-right-xxxxs@lg"
         ],
-        "description": "margin-right: var(--space-xxxxs)"
+        "description": "margin-right: var(--space-xxxxsm)"
     },
     "margin-right-xxxs@lg": {
         "prefix": "margin-right-xxxs@lg",
         "body": [
             "margin-right-xxxs@lg"
         ],
-        "description": "margin-right: var(--space-xxxs)"
+        "description": "margin-right: var(--space-xxxsm)"
     },
     "margin-right-xxs@lg": {
         "prefix": "margin-right-xxs@lg",
         "body": [
             "margin-right-xxs@lg"
         ],
-        "description": "margin-right: var(--space-xxs)"
+        "description": "margin-right: var(--space-xxsm)"
     },
     "margin-right-xs@lg": {
         "prefix": "margin-right-xs@lg",
         "body": [
             "margin-right-xs@lg"
         ],
-        "description": "margin-right: var(--space-xs)"
+        "description": "margin-right: var(--space-xsm)"
     },
     "margin-right-sm@lg": {
         "prefix": "margin-right-sm@lg",
@@ -8180,28 +8180,28 @@
         "body": [
             "margin-right-xl@lg"
         ],
-        "description": "margin-right: var(--space-xl)"
+        "description": "margin-right: var(--space-xlg)"
     },
     "margin-right-xxl@lg": {
         "prefix": "margin-right-xxl@lg",
         "body": [
             "margin-right-xxl@lg"
         ],
-        "description": "margin-right: var(--space-xxl)"
+        "description": "margin-right: var(--space-xxlg)"
     },
     "margin-right-xxxl@lg": {
         "prefix": "margin-right-xxxl@lg",
         "body": [
             "margin-right-xxxl@lg"
         ],
-        "description": "margin-right: var(--space-xxxl)"
+        "description": "margin-right: var(--space-xxxlg)"
     },
     "margin-right-xxxxl@lg": {
         "prefix": "margin-right-xxxxl@lg",
         "body": [
             "margin-right-xxxxl@lg"
         ],
-        "description": "margin-right: var(--space-xxxxl)"
+        "description": "margin-right: var(--space-xxxxlg)"
     },
     "margin-bottom-0@lg": {
         "prefix": "margin-bottom-0@lg",
@@ -8215,28 +8215,28 @@
         "body": [
             "margin-bottom-xxxxs@lg"
         ],
-        "description": "margin-bottom: var(--space-xxxxs)"
+        "description": "margin-bottom: var(--space-xxxxsm)"
     },
     "margin-bottom-xxxs@lg": {
         "prefix": "margin-bottom-xxxs@lg",
         "body": [
             "margin-bottom-xxxs@lg"
         ],
-        "description": "margin-bottom: var(--space-xxxs)"
+        "description": "margin-bottom: var(--space-xxxsm)"
     },
     "margin-bottom-xxs@lg": {
         "prefix": "margin-bottom-xxs@lg",
         "body": [
             "margin-bottom-xxs@lg"
         ],
-        "description": "margin-bottom: var(--space-xxs)"
+        "description": "margin-bottom: var(--space-xxsm)"
     },
     "margin-bottom-xs@lg": {
         "prefix": "margin-bottom-xs@lg",
         "body": [
             "margin-bottom-xs@lg"
         ],
-        "description": "margin-bottom: var(--space-xs)"
+        "description": "margin-bottom: var(--space-xsm)"
     },
     "margin-bottom-sm@lg": {
         "prefix": "margin-bottom-sm@lg",
@@ -8264,28 +8264,28 @@
         "body": [
             "margin-bottom-xl@lg"
         ],
-        "description": "margin-bottom: var(--space-xl)"
+        "description": "margin-bottom: var(--space-xlg)"
     },
     "margin-bottom-xxl@lg": {
         "prefix": "margin-bottom-xxl@lg",
         "body": [
             "margin-bottom-xxl@lg"
         ],
-        "description": "margin-bottom: var(--space-xxl)"
+        "description": "margin-bottom: var(--space-xxlg)"
     },
     "margin-bottom-xxxl@lg": {
         "prefix": "margin-bottom-xxxl@lg",
         "body": [
             "margin-bottom-xxxl@lg"
         ],
-        "description": "margin-bottom: var(--space-xxxl)"
+        "description": "margin-bottom: var(--space-xxxlg)"
     },
     "margin-bottom-xxxxl@lg": {
         "prefix": "margin-bottom-xxxxl@lg",
         "body": [
             "margin-bottom-xxxxl@lg"
         ],
-        "description": "margin-bottom: var(--space-xxxxl)"
+        "description": "margin-bottom: var(--space-xxxxlg)"
     },
     "margin-left-0@lg": {
         "prefix": "margin-left-0@lg",
@@ -8299,28 +8299,28 @@
         "body": [
             "margin-left-xxxxs@lg"
         ],
-        "description": "margin-left: var(--space-xxxxs)"
+        "description": "margin-left: var(--space-xxxxsm)"
     },
     "margin-left-xxxs@lg": {
         "prefix": "margin-left-xxxs@lg",
         "body": [
             "margin-left-xxxs@lg"
         ],
-        "description": "margin-left: var(--space-xxxs)"
+        "description": "margin-left: var(--space-xxxsm)"
     },
     "margin-left-xxs@lg": {
         "prefix": "margin-left-xxs@lg",
         "body": [
             "margin-left-xxs@lg"
         ],
-        "description": "margin-left: var(--space-xxs)"
+        "description": "margin-left: var(--space-xxsm)"
     },
     "margin-left-xs@lg": {
         "prefix": "margin-left-xs@lg",
         "body": [
             "margin-left-xs@lg"
         ],
-        "description": "margin-left: var(--space-xs)"
+        "description": "margin-left: var(--space-xsm)"
     },
     "margin-left-sm@lg": {
         "prefix": "margin-left-sm@lg",
@@ -8348,28 +8348,28 @@
         "body": [
             "margin-left-xl@lg"
         ],
-        "description": "margin-left: var(--space-xl)"
+        "description": "margin-left: var(--space-xlg)"
     },
     "margin-left-xxl@lg": {
         "prefix": "margin-left-xxl@lg",
         "body": [
             "margin-left-xxl@lg"
         ],
-        "description": "margin-left: var(--space-xxl)"
+        "description": "margin-left: var(--space-xxlg)"
     },
     "margin-left-xxxl@lg": {
         "prefix": "margin-left-xxxl@lg",
         "body": [
             "margin-left-xxxl@lg"
         ],
-        "description": "margin-left: var(--space-xxxl)"
+        "description": "margin-left: var(--space-xxxlg)"
     },
     "margin-left-xxxxl@lg": {
         "prefix": "margin-left-xxxxl@lg",
         "body": [
             "margin-left-xxxxl@lg"
         ],
-        "description": "margin-left: var(--space-xxxxl);"
+        "description": "margin-left: var(--space-xxxxlg);"
     },
     "text-default@xlg": {
         "prefix": "text-default@xlg",
@@ -8404,28 +8404,28 @@
         "body": [
             "text-xlg@xlg"
         ],
-        "description": "font-size: var(--text-xl)"
+        "description": "font-size: var(--text-xlg)"
     },
     "text-xxlg@xlg": {
         "prefix": "text-xxlg@xlg",
         "body": [
             "text-xxlg@xlg"
         ],
-        "description": "font-size: var(--text-xxl)"
+        "description": "font-size: var(--text-xxlg)"
     },
     "text-xxxlg@xlg": {
         "prefix": "text-xxxlg@xlg",
         "body": [
             "text-xxxlg@xlg"
         ],
-        "description": "font-size: var(--text-xxxl)"
+        "description": "font-size: var(--text-xxxlg)"
     },
     "text-xxxxlg@xlg": {
         "prefix": "text-xxxxlg@xlg",
         "body": [
             "text-xxxxlg@xlg"
         ],
-        "description": "font-size: var(--text-xxxxl)"
+        "description": "font-size: var(--text-xxxxlg)"
     },
     "line-height-default@xlg": {
         "prefix": "line-height-default@xlg",
@@ -9167,28 +9167,28 @@
         "body": [
             "padding-xxxxsm@xlg"
         ],
-        "description": "padding: var(--space-xxxxs)"
+        "description": "padding: var(--space-xxxxsm)"
     },
     "padding-xxxsm@xlg": {
         "prefix": "padding-xxxsm@xlg",
         "body": [
             "padding-xxxsm@xlg"
         ],
-        "description": "padding: var(--space-xxxs)"
+        "description": "padding: var(--space-xxxsm)"
     },
     "padding-xxsm@xlg": {
         "prefix": "padding-xxsm@xlg",
         "body": [
             "padding-xxsm@xlg"
         ],
-        "description": "padding: var(--space-xxs)"
+        "description": "padding: var(--space-xxsm)"
     },
     "padding-xsm@xlg": {
         "prefix": "padding-xsm@xlg",
         "body": [
             "padding-xsm@xlg"
         ],
-        "description": "padding: var(--space-xs)"
+        "description": "padding: var(--space-xsm)"
     },
     "padding-sm@xlg": {
         "prefix": "padding-sm@xlg",
@@ -9216,28 +9216,28 @@
         "body": [
             "padding-xlg@xlg"
         ],
-        "description": "padding: var(--space-xl)"
+        "description": "padding: var(--space-xlg)"
     },
     "padding-xxlg@xlg": {
         "prefix": "padding-xxlg@xlg",
         "body": [
             "padding-xxlg@xlg"
         ],
-        "description": "padding: var(--space-xxl)"
+        "description": "padding: var(--space-xxlg)"
     },
     "padding-xxxlg@xlg": {
         "prefix": "padding-xxxlg@xlg",
         "body": [
             "padding-xxxlg@xlg"
         ],
-        "description": "padding: var(--space-xxxl)"
+        "description": "padding: var(--space-xxxlg)"
     },
     "padding-xxxxlg@xlg": {
         "prefix": "padding-xxxxlg@xlg",
         "body": [
             "padding-xxxxlg@xlg"
         ],
-        "description": "padding: var(--space-xxxxl)"
+        "description": "padding: var(--space-xxxxlg)"
     },
     "padding-top-0@xlg": {
         "prefix": "padding-top-0@xlg",
@@ -9251,28 +9251,28 @@
         "body": [
             "padding-top-xxxxsm@xlg"
         ],
-        "description": "padding-top: var(--space-xxxxs)"
+        "description": "padding-top: var(--space-xxxxsm)"
     },
     "padding-top-xxxsm@xlg": {
         "prefix": "padding-top-xxxsm@xlg",
         "body": [
             "padding-top-xxxsm@xlg"
         ],
-        "description": "padding-top: var(--space-xxxs)"
+        "description": "padding-top: var(--space-xxxsm)"
     },
     "padding-top-xxsm@xlg": {
         "prefix": "padding-top-xxsm@xlg",
         "body": [
             "padding-top-xxsm@xlg"
         ],
-        "description": "padding-top: var(--space-xxs)"
+        "description": "padding-top: var(--space-xxsm)"
     },
     "padding-top-xsm@xlg": {
         "prefix": "padding-top-xsm@xlg",
         "body": [
             "padding-top-xsm@xlg"
         ],
-        "description": "padding-top: var(--space-xs)"
+        "description": "padding-top: var(--space-xsm)"
     },
     "padding-top-sm@xlg": {
         "prefix": "padding-top-sm@xlg",
@@ -9300,28 +9300,28 @@
         "body": [
             "padding-top-xlg@xlg"
         ],
-        "description": "padding-top: var(--space-xl)"
+        "description": "padding-top: var(--space-xlg)"
     },
     "padding-top-xxlg@xlg": {
         "prefix": "padding-top-xxlg@xlg",
         "body": [
             "padding-top-xxlg@xlg"
         ],
-        "description": "padding-top: var(--space-xxl)"
+        "description": "padding-top: var(--space-xxlg)"
     },
     "padding-top-xxxlg@xlg": {
         "prefix": "padding-top-xxxlg@xlg",
         "body": [
             "padding-top-xxxlg@xlg"
         ],
-        "description": "padding-top: var(--space-xxxl)"
+        "description": "padding-top: var(--space-xxxlg)"
     },
     "padding-top-xxxxlg@xlg": {
         "prefix": "padding-top-xxxxlg@xlg",
         "body": [
             "padding-top-xxxxlg@xlg"
         ],
-        "description": "padding-top: var(--space-xxxxl)"
+        "description": "padding-top: var(--space-xxxxlg)"
     },
     "padding-right-0@xlg": {
         "prefix": "padding-right-0@xlg",
@@ -9335,28 +9335,28 @@
         "body": [
             "padding-right-xxxxs@xlg"
         ],
-        "description": "padding-right: var(--space-xxxxs)"
+        "description": "padding-right: var(--space-xxxxsm)"
     },
     "padding-right-xxxs@xlg": {
         "prefix": "padding-right-xxxs@xlg",
         "body": [
             "padding-right-xxxs@xlg"
         ],
-        "description": "padding-right: var(--space-xxxs)"
+        "description": "padding-right: var(--space-xxxsm)"
     },
     "padding-right-xxs@xlg": {
         "prefix": "padding-right-xxs@xlg",
         "body": [
             "padding-right-xxs@xlg"
         ],
-        "description": "padding-right: var(--space-xxs)"
+        "description": "padding-right: var(--space-xxsm)"
     },
     "padding-right-xs@xlg": {
         "prefix": "padding-right-xs@xlg",
         "body": [
             "padding-right-xs@xlg"
         ],
-        "description": "padding-right: var(--space-xs)"
+        "description": "padding-right: var(--space-xsm)"
     },
     "padding-right-sm@xlg": {
         "prefix": "padding-right-sm@xlg",
@@ -9384,28 +9384,28 @@
         "body": [
             "padding-right-xl@xlg"
         ],
-        "description": "padding-right: var(--space-xl)"
+        "description": "padding-right: var(--space-xlg)"
     },
     "padding-right-xxl@xlg": {
         "prefix": "padding-right-xxl@xlg",
         "body": [
             "padding-right-xxl@xlg"
         ],
-        "description": "padding-right: var(--space-xxl)"
+        "description": "padding-right: var(--space-xxlg)"
     },
     "padding-right-xxxl@xlg": {
         "prefix": "padding-right-xxxl@xlg",
         "body": [
             "padding-right-xxxl@xlg"
         ],
-        "description": "padding-right: var(--space-xxxl)"
+        "description": "padding-right: var(--space-xxxlg)"
     },
     "padding-right-xxxxl@xlg": {
         "prefix": "padding-right-xxxxl@xlg",
         "body": [
             "padding-right-xxxxl@xlg"
         ],
-        "description": "padding-right: var(--space-xxxxl)"
+        "description": "padding-right: var(--space-xxxxlg)"
     },
     "padding-bottom-0@xlg": {
         "prefix": "padding-bottom-0@xlg",
@@ -9426,21 +9426,21 @@
         "body": [
             "padding-bottom-xxxs@xlg"
         ],
-        "description": "padding-bottom: var(--space-xxxs)"
+        "description": "padding-bottom: var(--space-xxxsm)"
     },
     "padding-bottom-xxs@xlg": {
         "prefix": "padding-bottom-xxs@xlg",
         "body": [
             "padding-bottom-xxs@xlg"
         ],
-        "description": "padding-bottom: var(--space-xxs)"
+        "description": "padding-bottom: var(--space-xxsm)"
     },
     "padding-bottom-xs@xlg": {
         "prefix": "padding-bottom-xs@xlg",
         "body": [
             "padding-bottom-xs@xlg"
         ],
-        "description": "padding-bottom: var(--space-xs)"
+        "description": "padding-bottom: var(--space-xsm)"
     },
     "padding-bottom-sm@xlg": {
         "prefix": "padding-bottom-sm@xlg",
@@ -9468,21 +9468,21 @@
         "body": [
             "padding-bottom-xl@xlg"
         ],
-        "description": "padding-bottom: var(--space-xl)"
+        "description": "padding-bottom: var(--space-xlg)"
     },
     "padding-bottom-xxl@xlg": {
         "prefix": "padding-bottom-xxl@xlg",
         "body": [
             "padding-bottom-xxl@xlg"
         ],
-        "description": "padding-bottom: var(--space-xxl)"
+        "description": "padding-bottom: var(--space-xxlg)"
     },
     "padding-bottom-xxxl@xlg": {
         "prefix": "padding-bottom-xxxl@xlg",
         "body": [
             "padding-bottom-xxxl@xlg"
         ],
-        "description": "padding-bottom: var(--space-xxxl)"
+        "description": "padding-bottom: var(--space-xxxlg)"
     },
     "padding-bottom-xxxxl@xlg": {
         "prefix": "padding-bottom-xxxxl@xlg",
@@ -9503,28 +9503,28 @@
         "body": [
             "padding-left-xxxxs@xlg"
         ],
-        "description": "padding-left: var(--space-xxxxs)"
+        "description": "padding-left: var(--space-xxxxsm)"
     },
     "padding-left-xxxs@xlg": {
         "prefix": "padding-left-xxxs@xlg",
         "body": [
             "padding-left-xxxs@xlg"
         ],
-        "description": "padding-left: var(--space-xxxs)"
+        "description": "padding-left: var(--space-xxxsm)"
     },
     "padding-left-xxs@xlg": {
         "prefix": "padding-left-xxs@xlg",
         "body": [
             "padding-left-xxs@xlg"
         ],
-        "description": "padding-left: var(--space-xxs)"
+        "description": "padding-left: var(--space-xxsm)"
     },
     "padding-left-xs@xlg": {
         "prefix": "padding-left-xs@xlg",
         "body": [
             "padding-left-xs@xlg"
         ],
-        "description": "padding-left: var(--space-xs)"
+        "description": "padding-left: var(--space-xsm)"
     },
     "padding-left-sm@xlg": {
         "prefix": "padding-left-sm@xlg",
@@ -9552,28 +9552,28 @@
         "body": [
             "padding-left-xl@xlg"
         ],
-        "description": "padding-left: var(--space-xl)"
+        "description": "padding-left: var(--space-xlg)"
     },
     "padding-left-xxl@xlg": {
         "prefix": "padding-left-xxl@xlg",
         "body": [
             "padding-left-xxl@xlg"
         ],
-        "description": "padding-left: var(--space-xxl)"
+        "description": "padding-left: var(--space-xxlg)"
     },
     "padding-left-xxxl@xlg": {
         "prefix": "padding-left-xxxl@xlg",
         "body": [
             "padding-left-xxxl@xlg"
         ],
-        "description": "padding-left: var(--space-xxxl)"
+        "description": "padding-left: var(--space-xxxlg)"
     },
     "padding-left-xxxxl@xlg": {
         "prefix": "padding-left-xxxxl@xlg",
         "body": [
             "padding-left-xxxxl@xlg"
         ],
-        "description": "padding-left: var(--space-xxxxl)"
+        "description": "padding-left: var(--space-xxxxlg)"
     },
     "margin-0@xlg": {
         "prefix": "margin-0@xlg",
@@ -9587,28 +9587,28 @@
         "body": [
             "margin-xxxxsm@xlg"
         ],
-        "description": "margin: var(--space-xxxxs)"
+        "description": "margin: var(--space-xxxxsm)"
     },
     "margin-xxxsm@xlg": {
         "prefix": "margin-xxxsm@xlg",
         "body": [
             "margin-xxxsm@xlg"
         ],
-        "description": "margin: var(--space-xxxs)"
+        "description": "margin: var(--space-xxxsm)"
     },
     "margin-xxsm@xlg": {
         "prefix": "margin-xxsm@xlg",
         "body": [
             "margin-xxsm@xlg"
         ],
-        "description": "margin: var(--space-xxs)"
+        "description": "margin: var(--space-xxsm)"
     },
     "margin-xsm@xlg": {
         "prefix": "margin-xsm@xlg",
         "body": [
             "margin-xsm@xlg"
         ],
-        "description": "margin: var(--space-xs)"
+        "description": "margin: var(--space-xsm)"
     },
     "margin-sm@xlg": {
         "prefix": "margin-sm@xlg",
@@ -9636,28 +9636,28 @@
         "body": [
             "margin-xlg@xlg"
         ],
-        "description": "margin: var(--space-xl)"
+        "description": "margin: var(--space-xlg)"
     },
     "margin-xxlg@xlg": {
         "prefix": "margin-xxlg@xlg",
         "body": [
             "margin-xxlg@xlg"
         ],
-        "description": "margin: var(--space-xxl)"
+        "description": "margin: var(--space-xxlg)"
     },
     "margin-xxxlg@xlg": {
         "prefix": "margin-xxxlg@xlg",
         "body": [
             "margin-xxxlg@xlg"
         ],
-        "description": "margin: var(--space-xxxl)"
+        "description": "margin: var(--space-xxxlg)"
     },
     "margin-xxxxlg@xlg": {
         "prefix": "margin-xxxxlg@xlg",
         "body": [
             "margin-xxxxlg@xlg"
         ],
-        "description": "margin: var(--space-xxxxl)"
+        "description": "margin: var(--space-xxxxlg)"
     },
     "margin-top-0@xlg": {
         "prefix": "margin-top-0@xlg",
@@ -9671,28 +9671,28 @@
         "body": [
             "margin-top-xxxxsm@xlg"
         ],
-        "description": "margin-top: var(--space-xxxxs)"
+        "description": "margin-top: var(--space-xxxxsm)"
     },
     "margin-top-xxxsm@xlg": {
         "prefix": "margin-top-xxxsm@xlg",
         "body": [
             "margin-top-xxxsm@xlg"
         ],
-        "description": "margin-top: var(--space-xxxs)"
+        "description": "margin-top: var(--space-xxxsm)"
     },
     "margin-top-xxsm@xlg": {
         "prefix": "margin-top-xxsm@xlg",
         "body": [
             "margin-top-xxsm@xlg"
         ],
-        "description": "margin-top: var(--space-xxs)"
+        "description": "margin-top: var(--space-xxsm)"
     },
     "margin-top-xsm@xlg": {
         "prefix": "margin-top-xsm@xlg",
         "body": [
             "margin-top-xsm@xlg"
         ],
-        "description": "margin-top: var(--space-xs)"
+        "description": "margin-top: var(--space-xsm)"
     },
     "margin-top-sm@xlg": {
         "prefix": "margin-top-sm@xlg",
@@ -9720,28 +9720,28 @@
         "body": [
             "margin-top-xlg@xlg"
         ],
-        "description": "margin-top: var(--space-xl)"
+        "description": "margin-top: var(--space-xlg)"
     },
     "margin-top-xxlg@xlg": {
         "prefix": "margin-top-xxlg@xlg",
         "body": [
             "margin-top-xxlg@xlg"
         ],
-        "description": "margin-top: var(--space-xxl)"
+        "description": "margin-top: var(--space-xxlg)"
     },
     "margin-top-xxxlg@xlg": {
         "prefix": "margin-top-xxxlg@xlg",
         "body": [
             "margin-top-xxxlg@xlg"
         ],
-        "description": "margin-top: var(--space-xxxl)"
+        "description": "margin-top: var(--space-xxxlg)"
     },
     "margin-top-xxxxlg@xlg": {
         "prefix": "margin-top-xxxxlg@xlg",
         "body": [
             "margin-top-xxxxlg@xlg"
         ],
-        "description": "margin-top: var(--space-xxxxl)"
+        "description": "margin-top: var(--space-xxxxlg)"
     },
     "margin-right-0@xlg": {
         "prefix": "margin-right-0@xlg",
@@ -9755,28 +9755,28 @@
         "body": [
             "margin-right-xxxxs@xlg"
         ],
-        "description": "margin-right: var(--space-xxxxs)"
+        "description": "margin-right: var(--space-xxxxsm)"
     },
     "margin-right-xxxs@xlg": {
         "prefix": "margin-right-xxxs@xlg",
         "body": [
             "margin-right-xxxs@xlg"
         ],
-        "description": "margin-right: var(--space-xxxs)"
+        "description": "margin-right: var(--space-xxxsm)"
     },
     "margin-right-xxs@xlg": {
         "prefix": "margin-right-xxs@xlg",
         "body": [
             "margin-right-xxs@xlg"
         ],
-        "description": "margin-right: var(--space-xxs)"
+        "description": "margin-right: var(--space-xxsm)"
     },
     "margin-right-xs@xlg": {
         "prefix": "margin-right-xs@xlg",
         "body": [
             "margin-right-xs@xlg"
         ],
-        "description": "margin-right: var(--space-xs)"
+        "description": "margin-right: var(--space-xsm)"
     },
     "margin-right-sm@xlg": {
         "prefix": "margin-right-sm@xlg",
@@ -9804,28 +9804,28 @@
         "body": [
             "margin-right-xl@xlg"
         ],
-        "description": "margin-right: var(--space-xl)"
+        "description": "margin-right: var(--space-xlg)"
     },
     "margin-right-xxl@xlg": {
         "prefix": "margin-right-xxl@xlg",
         "body": [
             "margin-right-xxl@xlg"
         ],
-        "description": "margin-right: var(--space-xxl)"
+        "description": "margin-right: var(--space-xxlg)"
     },
     "margin-right-xxxl@xlg": {
         "prefix": "margin-right-xxxl@xlg",
         "body": [
             "margin-right-xxxl@xlg"
         ],
-        "description": "margin-right: var(--space-xxxl)"
+        "description": "margin-right: var(--space-xxxlg)"
     },
     "margin-right-xxxxl@xlg": {
         "prefix": "margin-right-xxxxl@xlg",
         "body": [
             "margin-right-xxxxl@xlg"
         ],
-        "description": "margin-right: var(--space-xxxxl)"
+        "description": "margin-right: var(--space-xxxxlg)"
     },
     "margin-bottom-0@xlg": {
         "prefix": "margin-bottom-0@xlg",
@@ -9839,28 +9839,28 @@
         "body": [
             "margin-bottom-xxxxs@xlg"
         ],
-        "description": "margin-bottom: var(--space-xxxxs)"
+        "description": "margin-bottom: var(--space-xxxxsm)"
     },
     "margin-bottom-xxxs@xlg": {
         "prefix": "margin-bottom-xxxs@xlg",
         "body": [
             "margin-bottom-xxxs@xlg"
         ],
-        "description": "margin-bottom: var(--space-xxxs)"
+        "description": "margin-bottom: var(--space-xxxsm)"
     },
     "margin-bottom-xxs@xlg": {
         "prefix": "margin-bottom-xxs@xlg",
         "body": [
             "margin-bottom-xxs@xlg"
         ],
-        "description": "margin-bottom: var(--space-xxs)"
+        "description": "margin-bottom: var(--space-xxsm)"
     },
     "margin-bottom-xs@xlg": {
         "prefix": "margin-bottom-xs@xlg",
         "body": [
             "margin-bottom-xs@xlg"
         ],
-        "description": "margin-bottom: var(--space-xs)"
+        "description": "margin-bottom: var(--space-xsm)"
     },
     "margin-bottom-sm@xlg": {
         "prefix": "margin-bottom-sm@xlg",
@@ -9888,28 +9888,28 @@
         "body": [
             "margin-bottom-xl@xlg"
         ],
-        "description": "margin-bottom: var(--space-xl)"
+        "description": "margin-bottom: var(--space-xlg)"
     },
     "margin-bottom-xxl@xlg": {
         "prefix": "margin-bottom-xxl@xlg",
         "body": [
             "margin-bottom-xxl@xlg"
         ],
-        "description": "margin-bottom: var(--space-xxl)"
+        "description": "margin-bottom: var(--space-xxlg)"
     },
     "margin-bottom-xxxl@xlg": {
         "prefix": "margin-bottom-xxxl@xlg",
         "body": [
             "margin-bottom-xxxl@xlg"
         ],
-        "description": "margin-bottom: var(--space-xxxl)"
+        "description": "margin-bottom: var(--space-xxxlg)"
     },
     "margin-bottom-xxxxl@xlg": {
         "prefix": "margin-bottom-xxxxl@xlg",
         "body": [
             "margin-bottom-xxxxl@xlg"
         ],
-        "description": "margin-bottom: var(--space-xxxxl)"
+        "description": "margin-bottom: var(--space-xxxxlg)"
     },
     "margin-left-0@xlg": {
         "prefix": "margin-left-0@xlg",
@@ -9923,28 +9923,28 @@
         "body": [
             "margin-left-xxxxs@xlg"
         ],
-        "description": "margin-left: var(--space-xxxxs)"
+        "description": "margin-left: var(--space-xxxxsm)"
     },
     "margin-left-xxxs@xlg": {
         "prefix": "margin-left-xxxs@xlg",
         "body": [
             "margin-left-xxxs@xlg"
         ],
-        "description": "margin-left: var(--space-xxxs)"
+        "description": "margin-left: var(--space-xxxsm)"
     },
     "margin-left-xxs@xlg": {
         "prefix": "margin-left-xxs@xlg",
         "body": [
             "margin-left-xxs@xlg"
         ],
-        "description": "margin-left: var(--space-xxs)"
+        "description": "margin-left: var(--space-xxsm)"
     },
     "margin-left-xs@xlg": {
         "prefix": "margin-left-xs@xlg",
         "body": [
             "margin-left-xs@xlg"
         ],
-        "description": "margin-left: var(--space-xs)"
+        "description": "margin-left: var(--space-xsm)"
     },
     "margin-left-sm@xlg": {
         "prefix": "margin-left-sm@xlg",
@@ -9972,28 +9972,28 @@
         "body": [
             "margin-left-xl@xlg"
         ],
-        "description": "margin-left: var(--space-xl)"
+        "description": "margin-left: var(--space-xlg)"
     },
     "margin-left-xxl@xlg": {
         "prefix": "margin-left-xxl@xlg",
         "body": [
             "margin-left-xxl@xlg"
         ],
-        "description": "margin-left: var(--space-xxl)"
+        "description": "margin-left: var(--space-xxlg)"
     },
     "margin-left-xxxl@xlg": {
         "prefix": "margin-left-xxxl@xlg",
         "body": [
             "margin-left-xxxl@xlg"
         ],
-        "description": "margin-left: var(--space-xxxl)"
+        "description": "margin-left: var(--space-xxxlg)"
     },
     "margin-left-xxxxl@xlg": {
         "prefix": "margin-left-xxxxl@xlg",
         "body": [
             "margin-left-xxxxl@xlg"
         ],
-        "description": "margin-left: var(--space-xxxxl);"
+        "description": "margin-left: var(--space-xxxxlg);"
     },
     "font-medium": {
         "prefix": "font-medium",

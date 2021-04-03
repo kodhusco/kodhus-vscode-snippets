@@ -22,15 +22,17 @@
   },
   "icon": "logo.png",
   "keywords": [
-    "codyhouse",
+    "html",
     "scss",
     "css",
-    "html",
     "js",
+    "kodhus",
     "snippets",
     "autocomplete",
+    "vscode-extension",
     "vscode",
-    "vscode-extension"
+    "coding"
+    
   ],
   "homepage": "https://github.com/kodhusco/kodhus-vscode-snippets/blob/master/README.md",
   "bugs": {
